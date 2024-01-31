@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>De 10 siste fra Utakt</title>
+    <link>https://github.com/alfkd/podcast</link>
+    <description>Vi har spist kjøttkaker fra 1945 og håndhilst på Phil Collins. Vi har både trikot og klokkestreng på kontoret. Sånn er Utakt også - litt av alt. Per Øystein Kvindesland og Bjørn Olav Skjæveland tenker høyt, ofte på sviktende grunnlag.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Min egen - basert på https://github.com/sindrel/nrk-pod-feeds</generator>
+    <lastBuildDate>Wed 31 Jan 2024 20:01:08 +01:00</lastBuildDate>
+    <pubDate>Wed 31 Jan 2024 20:01:08 +01:00</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    <item>
+      <title>Utakt – oppe i åtta!</title>
+      <description><![CDATA[Stående eller sittende tissing for mannfolk? Hvorfor selge en hel samling gjøk-ur? Hvordan bli kvitt Jørgensdags-fettet? Ikke kom her å fortell at Utakt ikke stiller de viktige spørsmålene.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0424-1044_6347086126.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0424-1044_6347086126.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:11</itunes:duration>
+      <pubDate>Tue, 24 Apr 2012 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Utakt ni - live!</title>
+      <description><![CDATA[Frykt, sex og smell. Frykt for å bli avslørt som synder på gjenvinningsstasjon. Sexprat rundt grøten ved hjelp av en Volvo 740 GLE og internasjonal smelling av pose. Dette er kalles en Utakt-cabaret - evt en Utakt-Aspik. Noe for enhver smak. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0502-0951_6347155075.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0502-0951_6347155075.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:47</itunes:duration>
+      <pubDate>Wed, 02 May 2012 11:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Utakt jubilerer!</title>
+      <description><![CDATA[Vi lager Aspik/Cabaret for menn.Vi fotograferer dusjkabinett utendørs, tester baseball-ganaten og smeller oppvaskhanske ved hjelp av kompressor. De bluferdige får også sitt, i spalten seksualundervisning rundt grøten diskuterer vi partnerbytte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0508-1022_6347207030.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0508-1022_6347207030.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:05</itunes:duration>
+      <pubDate>Tue, 08 May 2012 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Utakt skrur opp til elleve!</title>
+      <description><![CDATA[Har noen noensinne egentlig sklidd på et bananskall ? Kan Viagra-inntak sammenlignes med trimming av bil ? Hvor høyt smeller en sykkelslange som blir spreng-blåst med kompressor ? Utakt stiller spørsmål og Utakt gir svar. Dessuten kommer almennlæreren og byr på gode avspasseringstips for sommeren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0515-0217_6347268861.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0515-0217_6347268861.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:25</itunes:duration>
+      <pubDate>Tue, 15 May 2012 16:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Utakt tolv-fritt til nedlasting!</title>
+      <description><![CDATA[Alternativ bruk av motoriserte hageredskaper. Baderomsinnredning fra 70/80-tallet.Seksualundervisning rundt grøten og smelling av badeball. Ikke spesielt vikitig med andre ord, men ganske spesielt likevel. Bare hør!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0522-1148_6347328499.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0522-1148_6347328499.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:15</itunes:duration>
+      <pubDate>Tue, 22 May 2012 13:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>13 dag Utakt</title>
+      <description><![CDATA[Kaffe fra 1.verdenskrig og hermetikk fra 1940 smaker fortreffelig. Ellers på menyen: Smelling av bobleplast-cocktail ved hjelp av vedkløyver, hengekøy-ulykker i pinsevarmen og enhjul-sykling i USA. Press play on tape!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0529-1036_6347388484.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0529-1036_6347388484.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:17</itunes:duration>
+      <pubDate>Tue, 29 May 2012 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Utakt tar ferie</title>
+      <description><![CDATA[Hvor langt har du kjørt for å hente noe du har glemt ? Hvor ligger verdens mest ensomme tre? Går det an å spille på en skjeggtrimmer ? Viktige spørsmål å få svar på før Utakt tar sommerpause fram til 20 august.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0606-0846_6347456941.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0606-0846_6347456941.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:45</itunes:duration>
+      <pubDate>Wed, 06 Jun 2012 10:06:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Høstpremiere på Utakt</title>
+      <description><![CDATA[En sommer er over. Bare minnene er igjen. Utakt debriefer, og snakker gjennom det som har vært - både innenlands og utenlands. Det er godt å få snakket om det!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0821-0952_6348113984.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0821-0952_6348113984.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:54</itunes:duration>
+      <pubDate>Tue, 21 Aug 2012 11:08:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Regn med Utakt!</title>
+      <description><![CDATA[Den siste Homse. Mislykka anti-flykaprings-verktøy. Mikkel rev på dansk. Konsument-råd du ikke visste at du trengte. Et nokså godt radioprogram. God fornøyelse.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0828-1206_6348175277.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0828-1206_6348175277.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:53</itunes:duration>
+      <pubDate>Tue, 28 Aug 2012 14:08:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>September i Utakt</title>
+      <description><![CDATA[Dyreparken som egen stat, interessante toalett-oppfinnelser, brevet til Fantomet og en som ikke kan synge Mustang Sally. Utakt spenner vidt og bredt!
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0904-0823_6348234389.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2012-0904-0823_6348234389.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:54</itunes:duration>
+      <pubDate>Tue, 04 Sep 2012 10:09:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+  </channel>
+</rss>
