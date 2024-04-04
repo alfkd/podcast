@@ -1,0 +1,465 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Gamle episoder fra Utakt</title>
+    <link>https://github.com/alfkd/podcast</link>
+    <description>Vi har spist kjøttkaker fra 1945 og håndhilst på Phil Collins. Vi har både trikot og klokkestreng på kontoret. Sånn er Utakt også - litt av alt. Per Øystein Kvindesland og Bjørn Olav Skjæveland tenker høyt, ofte på sviktende grunnlag.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Min egen - basert på https://github.com/sindrel/nrk-pod-feeds</generator>
+    <lastBuildDate>Thu 04 Apr 2024 10:04:01 +02:00</lastBuildDate>
+    <pubDate>Thu 04 Apr 2024 10:04:01 +02:00</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    <item>
+      <title>09.10.2018 CD-hyller, pølser i Kosmos, fulle fugler, arme små og utrolig postgang</title>
+      <description><![CDATA[I dag diskuterer vi møbler som er vanskelige å bli kvitt og grilling i verdensrommet. Ellers drøfter vi fulle fugler, arme små og utrolige postforsendelser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-09_1025_189.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-09_1025_189.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:18</itunes:duration>
+      <pubDate>Tue, 09 Oct 2018 12:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>10.10.2018 Kino-pudding, pizza-buffet, filming i motfase og "tuba or not tuba"</title>
+      <description><![CDATA[Vi byr på sjokoladepudding i kinosalen og overspiser på pizza-buffet. Vi snakker om filming i motfase og møter damen som slo opp med kjæresten fordi han var en dårlig sjåfør. Og på toppen av det hele kommer Brynjar Meling for å spille tuba.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-10_1028_2309.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-10_1028_2309.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:49</itunes:duration>
+      <pubDate>Wed, 10 Oct 2018 12:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>11.10.2018 Drømme-vekking, kaffe-app, do-restaurant, russisk cola, Stavangersmurf og arme-puter</title>
+      <description><![CDATA[Vi forteller om en drømmestart på dagen, syr puter under armene, lurer en kaffe-kjøper, går på toalett-restaurant, drikker russisk cola og hører om Stavangersmurfens forretningside.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-11_1003_867.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-11_1003_867.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:15</itunes:duration>
+      <pubDate>Thu, 11 Oct 2018 12:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>15.10.2018 Kina-graving. Trump-rap, Garman & Worse, veganer-sang, fylle-hotell og voksenfilm</title>
+      <description><![CDATA[Vi graver til Kina, mixer Trump og Kanye West, lanserer glutenfrie barnesanger, synger om et fylle-hotell og lærer "Garman & Worse" på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-15_1022_340.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-15_1022_340.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:41</itunes:duration>
+      <pubDate>Mon, 15 Oct 2018 12:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>16.10.2018 Åpningsreplikk i butikk, krenkede kjæledyr, Google-utroskap og 103 åring med mobil.</title>
+      <description><![CDATA[Åpningsreplikk i butikk, Kina-graving, krenkede kjæledyr, Google-utroskap og 103 åringen som fikk mobiltelefon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-16_1052_4190.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-16_1052_4190.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:19</itunes:duration>
+      <pubDate>Tue, 16 Oct 2018 12:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>17.10.2018 Bank-fakkel, tidsreise, munn-skjuling, NSB-telefon, flau pilot og Brynjar på tuba</title>
+      <description><![CDATA[Vi drøfter bankenes bruk av våre penger, og møter en tidsreisende fra 2045. Per Pilot forteller om da han ble flau, og Brynjar Meling spiler i tuba-konkurransen. Vi lurer også på hvorfor fotballspillere skjuler munnen når de snakker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-17_1045_4045.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-17_1045_4045.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:29</itunes:duration>
+      <pubDate>Wed, 17 Oct 2018 12:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>18.10.2018 Fraværservice, Stavangersmurfen, Vegan-cola, fisebukse, lekseprøve og tog-musikal</title>
+      <description><![CDATA[Vi tilbyr fravær-service, drikker veganer-cola, synger om prompe-buksa og tester Jan Magnus i "Lekseprøven". Stavangersmurfen melder også høyt før det blir gjenhør med Utakts jernbanemusikal.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-18_1034_3544.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-18_1034_3544.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:26</itunes:duration>
+      <pubDate>Thu, 18 Oct 2018 12:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Syklist i supermanndrakt, pocketbøker i delvis svart-hvitt, urne-cookies og monner som drar.</title>
+      <description><![CDATA[Hvordan bli en populær syklist? Hvorfor kom pocketbøkene i delvis svart-hvitt? Hvorfor drar alle monner? Hva er urne-cookies? Og klarer du å lære deg en Kafka-klassiker i løpet av fire minutter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-22_1044_2913.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-22_1044_2913.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:35</itunes:duration>
+      <pubDate>Mon, 22 Oct 2018 12:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stavangersmurfens samlede vreder (September 2017 - September 2018)</title>
+      <description><![CDATA[Stavangersmurfen har et annerledes syn på verden, og er stort sett uenig i det meste. Her er den høyfrekvente hissigproppen sine innslag fra september 2017 og fram til september 2018. Stavangersmurfen er ikke høyere enn en appelsin, men går ikke av veien for å sparke de etablerte på leggen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-22_1150_3899.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-22_1150_3899.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:34:26</itunes:duration>
+      <pubDate>Mon, 22 Oct 2018 13:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Ekstrem rettskriving, værsjuke dyr, indiske parti-logoer, toalett-forskning og froske-sex.</title>
+      <description><![CDATA[Ekstrem rettskriving, værsjuke dyr, indiske parti-logoer, toalett-forskning, frosker og gruppe-søksmål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-23_1036_955.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-23_1036_955.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:16</itunes:duration>
+      <pubDate>Tue, 23 Oct 2018 12:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Julekort-dilemma, friske røykere, armløs sjåfør, olympiske basseng-mål og tuba-konkurranse</title>
+      <description><![CDATA[Vanskelige julekort, kvikke røykere, utgåtte referansepunkt, armløs sjåfør og Brynjar Meling på tuba.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-24_1054_965.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-24_1054_965.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:10</itunes:duration>
+      <pubDate>Wed, 24 Oct 2018 12:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Kamel-jakt, sommertid-smurf, Kirgisisk cola, naken statue, Røde Stjerne og lekseprøve </title>
+      <description><![CDATA[Kameljakt-forbud i USA, cola fra Kirgisistan, naken statue i Kina og fotball-navn fra Serbia. Her hjemme strever Stavangersmurfen med sitt, mens Ketil prøver seg i lekseprøven.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-25_1048_2700.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-25_1048_2700.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:51</itunes:duration>
+      <pubDate>Thu, 25 Oct 2018 12:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Fotballstatsledere, tusen termostater fra Kina, stein i skoen og trafikk-stigmatisering.</title>
+      <description><![CDATA[Statsledere som fotballtrenere, tusen termostater fra Kina, stein i skoen, trafikk-stigmatisering og en klassiker av James Joyce på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-29_1157_3469.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-29_1157_3469.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:51</itunes:duration>
+      <pubDate>Mon, 29 Oct 2018 12:10:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Nato-turister, speil-farge. 911-ringing, dyre-rettsaker og straks-tiltak</title>
+      <description><![CDATA[Vi snakker om lønnsomme Nato-turister, fargen på speilet, katten med enkelkatts-foretak og 911-forvirring før vi tar en straks-debatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-30_1133_3609.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-30_1133_3609.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:39</itunes:duration>
+      <pubDate>Tue, 30 Oct 2018 12:10:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Fjorårs-snø, hotell-lys, høyre-skøyting, treg revvy-vise, peanøttsmør og tuba</title>
+      <description><![CDATA[Snøen som falt i fjor, epler og peanøttsmør, motsatt-skøyting,  revvy-vise i slow motion, hotell-lys og Brynjar Meling på tuba.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-10-31_1218_1782.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-10-31_1218_1782.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:36</itunes:duration>
+      <pubDate>Wed, 31 Oct 2018 13:10:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Midlertidighet, Halloween-smurf, solnedgangsturisme, hundeutleie og tyrkisk cola</title>
+      <description><![CDATA[Hvor lenge er midlertidig? Hvorfor er Stavangersmurfen så kvalm? Hvor kan man leie en hund? Hvordan smaker tyrkisk cola og hvordan går det med Elisabeth i lekseprøven?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-01_1158_1199.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-01_1158_1199.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:08</itunes:duration>
+      <pubDate>Thu, 01 Nov 2018 12:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Sennep på apoteket, billig dress fra Kina, nissing på universitet og rotter i rettsalen.</title>
+      <description><![CDATA[Sennep på apoteket, billig dress fra Kina, nissing på universitet, rotter i rettsalen og Olav Duun på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-05_1237_3820.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-05_1237_3820.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:47</itunes:duration>
+      <pubDate>Mon, 05 Nov 2018 13:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Ludvig-rompa, makrame-stol, frimerke-ereksjon, tommelfinger-regel, revvy-reklame og bestemor i media</title>
+      <description><![CDATA[Ludvig den 14. og rumpa. Makrame-stol og frimerke-ereksjon. Revvy-reklame og tommelfinger-regel. 103 åring og medie-oppmerksomhet. Utakt og godt humør på formiddagen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-06_1103_1732.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-06_1103_1732.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:25</itunes:duration>
+      <pubDate>Tue, 06 Nov 2018 12:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Jobbtilbud, bukse-brenning, brokkoli/peanøtt, tuba-konkurranse og død mann dukket opp</title>
+      <description><![CDATA[Vi blir aldri tilbudt jobb, men vi brenner en bukse, tester peanøttsmør på brokkoli og synger om en bortkommen mann, mens du kan bli med i tuba-konkurransen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-07_1145_2077.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-07_1145_2077.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:05</itunes:duration>
+      <pubDate>Wed, 07 Nov 2018 12:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Pikante stedsnavn, korrupsjons-cola, kjøkken-frykt i Uganda, skatte-smurf og lekseprøve.</title>
+      <description><![CDATA[Pikante stedsnavn, korrupsjons-cola, kjøkken-frykt i Uganda, skatte-smurf og lekseprøve.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-08_1131_2878.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-08_1131_2878.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:27</itunes:duration>
+      <pubDate>Thu, 08 Nov 2018 12:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Kø-kultur, jubel-smurf, dick-pics, pikk-nikk-film, "Catch 22" og groper i golfballen</title>
+      <description><![CDATA[Vi diskuterer kø-kultur og lanserer "dickpics for dummies" Janne Stigen Drangsholt lærer oss en klassiker på 4 minutter før vi ringer Stavangersmurfen for å gratulere med Viking-opprykket. Ellers byr vi på en mistforstått reklamefilm og huller i golfballen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-12_1142_1292.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-12_1142_1292.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:49</itunes:duration>
+      <pubDate>Mon, 12 Nov 2018 12:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Ironisk omsorg, reke-pose, alene-karaoke, kø-triks og "chilly willy"</title>
+      <description><![CDATA[I dag diskuterer vi ironisk omsorg og vanskelig meteorolog-språk. Vi presenterer en genial reke-pose, synger alene-karaoke og lærer deg et triks for å komme lenger fram i køen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-13_1132_3166.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-13_1132_3166.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:38</itunes:duration>
+      <pubDate>Tue, 13 Nov 2018 12:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Maskot-drøm, skarring, hologram-romanse, peanøtt-kombo, fregattitti og tuba-konkurranse</title>
+      <description><![CDATA[Kvindesland vil bli maskot mens Skjæveland tester en peanøtt-kombo. Hvordan oppsto skarringen? Kan man gifte seg med et hologram? Hva er god fregatt-humor? Og hva spiller Brynjar Meling på tubaen sin?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-14_1215_2471.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-14_1215_2471.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:38</itunes:duration>
+      <pubDate>Wed, 14 Nov 2018 13:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Høypris-kjeder, Pokemon-sykkel, Australia-cola, Gamle Zealand, lekseprøve og starten/slutten på køen</title>
+      <description><![CDATA[Høypris-kjeder, Pokemon-sykkel, Australia-cola, Gamle Zealand, lekseprøve og starten/slutten på køen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-15_1141_1970.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-15_1141_1970.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:49</itunes:duration>
+      <pubDate>Thu, 15 Nov 2018 12:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Dynamo-mimring, ulempe med gullkort, fritidstrøbbel og sjokkerende kult-klassiker.</title>
+      <description><![CDATA[I dag søker vi etter en fritidsaktivitet for Kvindesland. Vi møter mannen som vil bli yngre, og mimrer om dynamoen. Vi spør om det kan være en ulempe å ha gullkort, før Janne Stigen Drangsholt lærer oss en klassiker på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-19_1139_1982.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-19_1139_1982.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:51</itunes:duration>
+      <pubDate>Mon, 19 Nov 2018 12:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Falsk ferie, 50 timer brettspill, eksplosiv brudekjole og 187 888 sjøers land</title>
+      <description><![CDATA[Vi diskuterer falske feriebilder, laaaange brettspill, brennende brudekjoler, sjøer i Finland, blinkende busser og mulige fritidsaktiviteter for Kvindesland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-20_1313_377.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-20_1313_377.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:10</itunes:duration>
+      <pubDate>Tue, 20 Nov 2018 14:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Blinkende trafikk-lys, gedigen passasjer, kjøkken-språk, tuba-Brynjar og crabsticks med peanøttsmør.</title>
+      <description><![CDATA[Skummel reklame, blinkende trafikk-lys, gedigen passasjer, det norske kjøkken-språk, tuba-Brynjar og crabsticks med peanøttsmør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-21_1301_1936.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-21_1301_1936.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:20</itunes:duration>
+      <pubDate>Wed, 21 Nov 2018 14:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Julelys-intervaller, Sams cola, fylle-curling, pizza-formel, lekseprøve og forbønn-smurf</title>
+      <description><![CDATA[I dag drøfter vi julelys-intervaller og drikker Sams cola. Vi ler av fylle-curling, og tester Mette i lekseprøven. Og dersom Stavangersmurfen blir bønnhørt, så får han også være med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-22_1129_1148.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-22_1129_1148.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:13</itunes:duration>
+      <pubDate>Thu, 22 Nov 2018 12:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Julegenser-konkurranse, tilbuds-begrensning, diesel-vekking og Edgar Allan Poe på fire minutter</title>
+      <description><![CDATA[Vi lanserer julegenser-konkurransen, irriterer oss over reklame-begrensninger, vekkker en kinesisk syvsover og lærer en klassiker på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-26_1153_1249.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-26_1153_1249.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:31</itunes:duration>
+      <pubDate>Mon, 26 Nov 2018 12:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Julegenser-vits, harnisk i mundur, juletrekrangel, trafuril og do-donor.</title>
+      <description><![CDATA[Hvem vinner den første julegenseren? Hva betyr det å være i harnisk? Hvorfor krangler amerikanerne om juletrær? Hvor ble det av Trafurilen? Og hva er en Do-donor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-27_1205_1150.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-27_1205_1150.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:08</itunes:duration>
+      <pubDate>Tue, 27 Nov 2018 13:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Polsk radio, Rene & Renato, grøt med peanøttsmør, kjøreskole på taket og mer Trafuril</title>
+      <description><![CDATA[Vi lanserer en polsk DAB-kanal, spiser grøt med peanøttsmør-øye, mimrer om Rene og Renato, forteller flere Trafuril-historier og gjetter når Brynjar Meling spiller tuba.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-28_1207_1882.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-28_1207_1882.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:14</itunes:duration>
+      <pubDate>Wed, 28 Nov 2018 13:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Gal livsvisdom, lekseprøve i Antarktis, chili-cola, Renato-overraskelse, fotball-død og smurf.</title>
+      <description><![CDATA[Gal livsvisdom, lekseprøve i Antarktis, chili-cola, Renato-overraskelse, fotball-død og Stavangersmurfen som tenner på julelys.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-11-29_1126_660.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-11-29_1126_660.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:50</itunes:duration>
+      <pubDate>Thu, 29 Nov 2018 12:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Juletre-jury, frukt-steiner, capsLock-triks, Billigkroken og "Advent" på fire minutter</title>
+      <description><![CDATA[Kompetent juletre-jury, druestein til byrden, grønn mann med vann, CapsLock-triks, "Advent" på fire minutter samt en thriller fra Billigkroken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-03_1158_2193.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-03_1158_2193.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:08</itunes:duration>
+      <pubDate>Mon, 03 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Voksen-setninger, jule-fadeser, forvirrende kalender, lutefisk-nekrolog og lego-spising</title>
+      <description><![CDATA[I dag presenterer vi voksen-setninger som barn ikke tror på. Vi samler inn jule-fadeser, og ler av kalender-forvirring. Ellers leser vi høyt fra en lutefisk-nekrolog før vi advarer mot lego-spising.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-04_1117_3293.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-04_1117_3293.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:31</itunes:duration>
+      <pubDate>Tue, 04 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Kanin-slaget, jule-fadeser, peanøtt-kakemann, takrenne-mann og steinalder-nøtt</title>
+      <description><![CDATA[Napoleon og kaninene, kakemann med peanøttsmør, mann i takrenna, steingammel nøtt og julegenser til traumatiske juleminner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-05_1325_1710.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-05_1325_1710.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:53</itunes:duration>
+      <pubDate>Wed, 05 Dec 2018 14:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Bryllups-farger, julesang-smurf, jubileumscola, katte-juletre, blomsterspråk og lekseprøve</title>
+      <description><![CDATA[Feil farge i bryllup? Klarer Stavangersmurfen å lage en julesang? Hvordan smaker jubileumscola fra 1986? Hva signaliserer du med blomstervalget? Og hvordan går det med Mette i lekseprøven?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-06_1148_1590.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-06_1148_1590.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:50</itunes:duration>
+      <pubDate>Thu, 06 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Grav-misforståelser, flaske-postmann, mannebryster, burgunder brystning, rangling og klassiker-kurs</title>
+      <description><![CDATA[Graverende misforståelser, postfolk og flaskepost, mannebryster, rangling, burgunder brystningspanel og klassikeren "Den røde bokstav" på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-10_1142_272.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-10_1142_272.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:55</itunes:duration>
+      <pubDate>Mon, 10 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Sko-prøverske, julegenser, juletrender, bacon-syltetøy, fjernkontroll og trafikklys-Elvis</title>
+      <description><![CDATA[Nytt om Dronning Elisabeth, nye juletrender, bacon-syltetøy fra USA, fjernkontroll-triks, trafikklys-Elvis og julegenser-gave.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-11_1127_78.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-11_1127_78.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:15</itunes:duration>
+      <pubDate>Tue, 11 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Mittwoch, peanøtt-fiken, underbukse-fyll, gammel albatross og julegenser-kantate</title>
+      <description><![CDATA[I dag snakker vi om første dag i uka, smaker fiken med peanøttsmør, ler av finsk underbukse-fyll, berømmer en gammel Albatross og hyller en julegenser-vinner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-12_1146_178.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-12_1146_178.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:32</itunes:duration>
+      <pubDate>Wed, 12 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Smurfe-julesang, tissefant-stjeling, finger-fast i fly, lekseprøve og bio-cola fra Østerrike</title>
+      <description><![CDATA[Stavangersmurfen og Stavangerkameratene synger julesang. Hekser stjal tissefanter og mann satt fingerfast i fly. Vi tester også organisk cola fra Østerrike og Jon Einar prøver seg i lekseprøven.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-13_1129_1061.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-13_1129_1061.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:30</itunes:duration>
+      <pubDate>Thu, 13 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Champagne-sabel, kostebinderi, gamlis-fluor, snøball-lov, fram/tilbake og Brødrene Løvehjerte</title>
+      <description><![CDATA[Champagne-sabel til Jul? Hvor ligger kostebinderiet? Hvordan klarer man å oppheve et snøballforbud? Trenger man fluortabletter når man passerer 104 år? Og har du lyst til å lære "Brødrene Løvehjerte" på fire minutter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-17_1131_3965.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-17_1131_3965.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:34</itunes:duration>
+      <pubDate>Mon, 17 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Fugletissing, idiotparkering, frityrlukt i peisen og verdensrekord i nissing</title>
+      <description><![CDATA[Tisser fugler? Hvordan kan vi hindre idiotisk parkering? Holder det å lære en julesang? Hvorfor lukter det frityr av peisen? Og hva er verdensrekorden i antall nisser?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-18_1131_2656.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-18_1131_2656.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:11</itunes:duration>
+      <pubDate>Tue, 18 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Hundeskittkalender, papegøye og smarthøyttaler, 16-åring på 29 år og Helene Bøksle i tysk karaoke.</title>
+      <description><![CDATA[Kalendertips, papegøyen og smarthøyttaleren, indisk fotballsvindel, dadler med peanøttsmør og Helene Bøksle i tvungen tysk karaoke]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-19_1205_2154.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-19_1205_2154.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:32</itunes:duration>
+      <pubDate>Wed, 19 Dec 2018 13:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Hønedrøm, smurfe-julekort, giga-juletre, Sinalco-cola og slåbrokk vs morgenkåpe.</title>
+      <description><![CDATA[I dag forteller vi om en hønedrøm. Vi slår et slag for slåbrokken, synger om et giga-juletre, drikker historisk cola og trøster Stavangersmurfen som sliter med julekortene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-20_1155_4239.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-20_1155_4239.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:45</itunes:duration>
+      <pubDate>Thu, 20 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Gjemte pakker, Elvis på gravstøtten, Josefs revvy-vise, mandel-teorien  julepapir-sparing.</title>
+      <description><![CDATA[Julaften i Utakt. Bortgjemte pakker, Elvis på gravstøtten, Josefs revvy-vise, mandel-teorien, julepapir-sparing, "Et dukkehjem" og "De små armane"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-24_1100_3732.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-24_1100_3732.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:19</itunes:duration>
+      <pubDate>Mon, 24 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Bytte-etikk, fruktkorg, Ister, Kaffe-cola, bar-knusing og Fillipine-smurf</title>
+      <description><![CDATA[Romjuls-Utakt. Vi diskuterer bytte-etikk og fruktkorgens posisjon. Vi drikke kaffe-cola fra Russland og prøver å forstå hva ister er for noe. Stavangersmurfen spiller Fillipine med oss, mens Carry A Nation knuste barer i USA:]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-27_1106_667.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-27_1106_667.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:32</itunes:duration>
+      <pubDate>Thu, 27 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Rakett-fiasko, robot-fremtid, boblebad-forsett, nyttårsklassiker, tv på radio og takk for det gamle</title>
+      <description><![CDATA[Takk for det gamle! Vi byr på rakett-fiasko, boblebad-forsett, Grevinnen og hovmesteren på radio, robot-ekseperimentering og en nyttårsklassiker på fire minutter. Snakkes i 2019!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2018-12-31_1125_3474.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2018-12-31_1125_3474.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:15</itunes:duration>
+      <pubDate>Mon, 31 Dec 2018 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Gravstøtte-salg, juletre-overskudd, vanskelige bryllupstimer, asparges-spådom og radio-Jeopardy</title>
+      <description><![CDATA[Godt nyttår! Vi snakker om gravstøtte-salg, juletre-overskudd, asparges-spådom og de vanskelige bryllupstimene. I tillegg lanserer vi en ny konkurranse som vi er litt usikker på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-01-02_1132_2396.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-01-02_1132_2396.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:18</itunes:duration>
+      <pubDate>Wed, 02 Jan 2019 12:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Narkosealarm, nyttårsforsett for smurf, cola fra Myanmar og pekepinn om pekepinner.</title>
+      <description><![CDATA[Hva skjer når brannalarmen begynner å ule rett før du går inn i narkose? Vi tester cola fra Myanmar, får høre nyttårsforsettet til Stavangersmurfen, starter bryllupsventing.no og gir en pekepinn om pekepinner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-01-03_1123_3771.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-01-03_1123_3771.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:52</itunes:duration>
+      <pubDate>Thu, 03 Jan 2019 12:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Unødvendige advarsler, hjertemedisinen Billy, norsk superhelt og Peer Gynt på 4 minutter.</title>
+      <description><![CDATA[I dag snakker vi om dumme advarsler, navn på medisiner, norsk superhelt og utdrikningskatastrofer før vi lærer oss "Peer Gynt" på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-01-07_1150_679.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-01-07_1150_679.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:45</itunes:duration>
+      <pubDate>Mon, 07 Jan 2019 12:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+  </channel>
+</rss>

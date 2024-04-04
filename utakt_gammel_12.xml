@@ -1,0 +1,468 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Gamle episoder fra Utakt</title>
+    <link>https://github.com/alfkd/podcast</link>
+    <description>Vi har spist kjøttkaker fra 1945 og håndhilst på Phil Collins. Vi har både trikot og klokkestreng på kontoret. Sånn er Utakt også - litt av alt. Per Øystein Kvindesland og Bjørn Olav Skjæveland tenker høyt, ofte på sviktende grunnlag.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Min egen - basert på https://github.com/sindrel/nrk-pod-feeds</generator>
+    <lastBuildDate>Thu 04 Apr 2024 10:04:05 +02:00</lastBuildDate>
+    <pubDate>Thu 04 Apr 2024 10:04:05 +02:00</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    <item>
+      <title>Burgunder bukse, idiotisk stafettnavn, Bangkok-cola, myntkast i flymotor og måneder igjen å leve.</title>
+      <description><![CDATA[Hvor lenge har vi igjen å leve? Hvorfor er Stavangersmurfen i Thailand? Hvorfor har Kvindesland kjøpt seg burgunder bukse? Hvorfor har skiskytingsøvelser teite navn? Hvordan smaker Bangkok-cola og hvorfor kaster folk mynter inn i en flymotor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-03-14_1130_3703.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-03-14_1130_3703.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:24</itunes:duration>
+      <pubDate>Thu, 14 Mar 2019 12:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Oljefondslanking, spøkelser ser alt, moderne bilnøkler og mann slukt av hval.</title>
+      <description><![CDATA[Har spøkelser taushetsplikt? Kan Oljefondet brukes til slanking? Kan man bli slukt av en hval? Kan moderne bilnøkler skape problemer? Og kan man lære seg klassikeren "Med kaldt blod" av Truman Capote på fire minutter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-03-18_1201_876.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-03-18_1201_876.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:44</itunes:duration>
+      <pubDate>Mon, 18 Mar 2019 13:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Nye oppfinnelser, potetgull-oppdagelsen, kald varm-mat, musikk-oster og krim som baller på seg</title>
+      <description><![CDATA[Blir det vanskeligere å finne opp nye ting? Hvem oppfant egentlig potet-chipsen? Liker oster å lytte til musikk? Hvorfor er noen matretter varmere ennn andre? Og hvorfor snakker almennlæreren om eskalerende kriminalitet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-03-19_1141_2063.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-03-19_1141_2063.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:11</itunes:duration>
+      <pubDate>Tue, 19 Mar 2019 12:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Nigeria-hevn, idretts-reklame, rare fornavn, tissing på samlebånd, og svaret er gatekjøkken</title>
+      <description><![CDATA[Kan vi hevne Nigeria-svindel? Hvorfor må idrettskjendiser være med i tv-reklame? Hvorfor tisser folk på samlebåndene? Finnes det fornavn som ikke blir godkjent? Og hvis svaret er "Gatekjøkken", hva er da spørsmålet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-03-20_1128_4223.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-03-20_1128_4223.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:02</itunes:duration>
+      <pubDate>Wed, 20 Mar 2019 12:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stavangersmurfen blir tobakk-journalist</title>
+      <description><![CDATA[Alkoholreklame er ikke lov i Norge, så hvorfor har avisene anmeldelser av vin og øl? Gir dem terningkast og anbefalinger. Stavangersmurfen vil begynne å anmelde tobakksprodukter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-03-21_1106_888.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-03-21_1106_888.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:44</itunes:duration>
+      <pubDate>Thu, 21 Mar 2019 12:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Flopper, fordomsbarometer, tobakksjournalistikk, Trump-mur og Hellas-cola</title>
+      <description><![CDATA[Flopper som kom tilbake. Fordomsbarometer i trafikken. Stavangersmurfen vil bli tobakksjournalist, Trump-fan falt for egen mur, og vi tester cola fra Hellas.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-03-21_1128_2760.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-03-21_1128_2760.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:44</itunes:duration>
+      <pubDate>Thu, 21 Mar 2019 12:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Tungvektshopping, 10-kamp på snø, peanøtt-vafler, laaangt hår og "Gift" på fire minutter.</title>
+      <description><![CDATA[Vi revolusjonerer vintersporten med tungvektshopping og 10-kamp på snø. På vaffeldagen tester vi peanøtt-vafle  før vi synger om en kineser med laaangt hår. Til slutt lærer vi oss "Gift" på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-03-25_1126_2930.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-03-25_1126_2930.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:54</itunes:duration>
+      <pubDate>Mon, 25 Mar 2019 12:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Dyrt/billig, ballonghopping, nakenflyging,tannkrem-juice, shift-tasten og førsteintrykks-produsent</title>
+      <description><![CDATA[Hva er tøffest, dyrt eller billig? Hvordan foregikk idretten ballonghopping? Hvem bruker den høyre shift-tasten? Hvorfor kledte mannen av seg da han skulle fly? Og hva er en førsteintrykks-produsent?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-03-26_1127_1826.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-03-26_1127_1826.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:48</itunes:duration>
+      <pubDate>Tue, 26 Mar 2019 12:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Kunst i Utakt, rev og rottekasting, homo-do og syden</title>
+      <description><![CDATA[I dag byr vi på både revekasting og rottekasting. Vi diskuterer homofile toalett-seter og kunst, og svaret på konkurransen er "Syden". Men hva er spørsmålet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-03-27_1140_1144.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-03-27_1140_1144.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:58</itunes:duration>
+      <pubDate>Wed, 27 Mar 2019 12:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stavangersmurfens eksplosive truse, rolle i voksenfilm og alternative aprilsnarr.</title>
+      <description><![CDATA[Hva med å ha individuelle dager for aprilsnarr? 1. april forventer folk å bli lurt, men ikke 28. mars.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-03-28_1117_3834.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-03-28_1117_3834.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:06</itunes:duration>
+      <pubDate>Thu, 28 Mar 2019 12:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Plagg-oppfinnelser, gåsetrekking, narre-smurf, penis-drap og cola fra Guatemala</title>
+      <description><![CDATA[Kan vi finne opp nye klær? Har Stavangersmurfen kommet hjem? Hvordan smaker cola fra Guatemala? Hva er gåsetrekking? Og hva er et penis-våpen? Utakt spør og Utakt svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-03-28_1121_2152.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-03-28_1121_2152.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:47</itunes:duration>
+      <pubDate>Thu, 28 Mar 2019 12:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Kaotiske tidssoner, 1.april-problematikk, tapt/funnet, urin-kuler og "Keiseren av Portugalia" </title>
+      <description><![CDATA[Kaotiske tidssoner, 1.april-problematikk, tapt/funnet-problematikk, urin-kuler og "Keiseren av Portugalia" på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-01_1033_579.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-01_1033_579.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:03</itunes:duration>
+      <pubDate>Mon, 01 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Dørlås-inkontinens, container-debatt, grisekjøring, trekk-fare og trener-sparkinger</title>
+      <description><![CDATA[I dag drøfter vi dørlås-inkontinens, container-kotyme, grisekjøring, vifte-trekk og verdensrekorden i trener-sparking.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-02_1044_1003.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-02_1044_1003.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:23</itunes:duration>
+      <pubDate>Tue, 02 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Fjong fasade, suge-regulering, space-burger, "videokamera" og hval på land</title>
+      <description><![CDATA[I dag lanserer vi enkel fasade-endring, oppsiktsvekkende evousjonsteorier, flyvende hamburgere og sjeløyd-lapper for øynene. Ellers er svaret "videokamera", men hva er spørsmålet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-03_1129_2981.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-03_1129_2981.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:49</itunes:duration>
+      <pubDate>Wed, 03 Apr 2019 13:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stavangersmurfens organiske skjeggkremakulator</title>
+      <description><![CDATA[Går det an å bruke skadedyr til noe positivt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-04_1021_3831.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-04_1021_3831.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:49</itunes:duration>
+      <pubDate>Thu, 04 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Klapping, Skjeggkre-smurf, kunst-Keegan, cookie-bonus og appelsin/vanilje-cola</title>
+      <description><![CDATA[Klappingens historie, Skjeggkre-makulator, appelsin/vanlilje-cola, kunst og fotballkort samt slankende fast-food.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-04_1027_179.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-04_1027_179.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:08</itunes:duration>
+      <pubDate>Thu, 04 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Rar stjeling, dyr uten armer, baby-hår, hodelykt-tissing og "Elskede" på fire minutter</title>
+      <description><![CDATA[Rare ting som blir stjålet. Dyr som klør i øynene. Baby med veldig langt hår. Tissing med hodelykt og klassikeren "Elskede" på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-08_1028_3624.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-08_1028_3624.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:08</itunes:duration>
+      <pubDate>Mon, 08 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Hale-diskusjon, fjell-måling, RAL, Vaselin, dårlig fotball-lag og egen kunst på veggen</title>
+      <description><![CDATA[Hvor lang er en hale? Hvor høyt er et fjell? Hvem spiser Vaselin? Har kunstnere egen kunst på veggen? Og hvor dårlig er Skottlands dårligste fotball-lag?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-09_1049_1893.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-09_1049_1893.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:58</itunes:duration>
+      <pubDate>Tue, 09 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Eldre-kjøring, gym, Nazi-hund og britisk politikk-teater</title>
+      <description><![CDATA[Eldre og bilkjøring, britisk politiker-brøling, hund med nazi-navn, Kvindesland i ribbeveggen - for svaret er "gym", men hva er spørsmålet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-10_1026_1995.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-10_1026_1995.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:39</itunes:duration>
+      <pubDate>Wed, 10 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stavangersmurfens "Schtroumpf-electric"</title>
+      <description><![CDATA[20020kr for å reservere Stavangersmurfens "Schtroumpf-electric"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-11_1025_403.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-11_1025_403.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:53</itunes:duration>
+      <pubDate>Thu, 11 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Film-irritasjon, elbil-reservering, Martinique-cola, støvsuger-utrykning og bingo i Sogn</title>
+      <description><![CDATA[Film-irritasjon, elbil-reservering, Martinique-cola, støvsuger-utrykning og bingo i Sogn]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-11_1027_1636.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-11_1027_1636.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:41</itunes:duration>
+      <pubDate>Thu, 11 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Farlig nøtteknekker, Påskeøya, Titanic-trikset, friluftsliv og klassiker på fire minutter</title>
+      <description><![CDATA[Eksplosiv nøtteknekker, påskeøya Rapa Nui, 15.april-trikset, kortreist friluftsliv og en japansk dilletant (hvis verden står til påske)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-15_1003_4031.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-15_1003_4031.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:34</itunes:duration>
+      <pubDate>Mon, 15 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Lese-konsentrasjon, kule-nedfall, søndagsbukse, easter-eggs, oppvaskmaskin og fast påske-dato</title>
+      <description><![CDATA[God påske! Klarer du å lese på bussen? Har du hørt om polakken som trodde nyttårsfeiringen var en cyste? Har du null-toleranse for dårlig oppvaskmaskin-stabling? Har du hørt om elektroniske easter-eggs? Og er det mulig å få påsken på en fast helg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-16_1006_2683.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-16_1006_2683.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:12</itunes:duration>
+      <pubDate>Tue, 16 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Anti-forspøling, forundringsstol, Italia-cola, tysk karaoke, labyrint-smurf og to bursdager</title>
+      <description><![CDATA[Anti-forsøplingsverktøy, forundrings-stolen, Esselunga-cola fra Italia, flere bursdager, tvungen tysk karaoke og Stavangersmurfen går seg vill i påskelabyrinten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-17_1003_3601.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-17_1003_3601.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:21</itunes:duration>
+      <pubDate>Wed, 17 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stavangersmurfens påskelabyrint</title>
+      <description><![CDATA[Påskelabyrint med mestringsfølelse. Kor ska vi reis?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-23_0554_3906.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-23_0554_3906.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:54</itunes:duration>
+      <pubDate>Tue, 23 Apr 2019 07:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Lekkasje-stopp, damedo-kø, Google-blotting, skotsk-ruta sauer og Game of Thrones</title>
+      <description><![CDATA[Ømfintlig vann-stopper, dame-do-forskning, Google-blotting, skotsk-rutete sauer, Game of Thrones  og meningsløs krim-teaser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-23_1041_2688.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-23_1041_2688.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:19</itunes:duration>
+      <pubDate>Tue, 23 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Prins Charles, latterlig uvane, eldgamle musikere, sinne-rom og svaret er "konfirmasjon"</title>
+      <description><![CDATA[Hvordan går det med Prins Charles? Hvorfor ler vi i stedet for å snakke? Hvor gode var egentlig musikerne i gamle dager? Kan vi lage revvy-vise uten tekst? Og hvis svaret er "konfirmasjonen", hva er da spørsmålet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-24_1034_860.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-24_1034_860.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:39</itunes:duration>
+      <pubDate>Wed, 24 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stavangersmurfens konfirmasjonstilbud</title>
+      <description><![CDATA[Bør ikke muslimer, veganere og andre som faller mellom konfirmasjonsstolene få et tilbud?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-25_1024_764.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-25_1024_764.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:16</itunes:duration>
+      <pubDate>Thu, 25 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Bytting, røykfri-Utakt, Tuk-Tuk-speed, husnummer, Belize-cola og konfirmasjons-smurf</title>
+      <description><![CDATA[Kan man bytte boblekar mot robotklipper? Hvor stort husnummer kan man ha? Kan man bli røykfri av Utakt? Hvordan smaker cola Belize? Hvor fort kan en Tuk-Tuk gå? Og hvordan skal Stavangersmurfen tjene penger på konfirmasjon?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-25_1032_2350.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-25_1032_2350.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:18</itunes:duration>
+      <pubDate>Thu, 25 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Rørleggersprekk, sekkeløp, heste-kjøring, bil-dorging, travle gamle og klssiker på fire minutter</title>
+      <description><![CDATA[Anstendig jobb-bekledning, sekkeløp-problematikk, lufting av hest, dorging med bil, ett gjøremål om dagen, samt klassikeren "Den utvalgte" på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-29_1048_1582.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-29_1048_1582.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:19</itunes:duration>
+      <pubDate>Mon, 29 Apr 2019 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Vågale matretter, kommunale forbud, brennenesle-kur, plakatskriving og trening med betongstøv.</title>
+      <description><![CDATA[Vågale matretter, kommunale forbud, brennenesle-kur, plakatskriving og trening med betongstøv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-04-30_1110_2168.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-04-30_1110_2168.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:52</itunes:duration>
+      <pubDate>Tue, 30 Apr 2019 13:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Reste-register, mose.plen, automatisk flagging, døende luktesans og svaret er "første mai"</title>
+      <description><![CDATA[Nasjonalt resteregister, automatisk flagging, Løvetann og mose, livsviktig luktesans og dersom svaret er "1. mai", hva er da spørsmålet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-01_1031_1170.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-01_1031_1170.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:39</itunes:duration>
+      <pubDate>Wed, 01 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stavangersmurfens pollenallergi</title>
+      <description><![CDATA[Ørsmå pollen er gjerne ikke så små hvis du bare er liten nok.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-02_1004_1231.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-02_1004_1231.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:19</itunes:duration>
+      <pubDate>Thu, 02 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Talkshow uten agenda, keiser-luft, allergisk smurf, Dalston-cola og ansvarlig russelåt</title>
+      <description><![CDATA[Talkshow med gjester uten agenda, allergisk Stavangersmurf, cola fra England, kjøpe-luft fra Japan og Utakts ansvarlige russe-låt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-02_1027_4194.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-02_1027_4194.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:49</itunes:duration>
+      <pubDate>Thu, 02 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Prisen for et nummer, løgnaktige foreldre, lunka øl i Mexico og "Borgermesteren" på fire minutter.</title>
+      <description><![CDATA[I dag snakker vi  om nummer som ligner på andre sitt, løgnaktige foreldre, lunka øl i Mexico og lærer deg klassikeren "Borgermesteren" på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-06_1038_1550.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-06_1038_1550.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:53</itunes:duration>
+      <pubDate>Mon, 06 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Ventilasjonslukt, rekord-klaging, LSD-brann, Benjamin Franklin-effekt og nye melodier.</title>
+      <description><![CDATA[I dag snakker vi om lukt-ventilasjon, Benjamin Franklin-effekten, musikk-variasjon og avviste rekord-forsøk. Du møter også en brannmann som slokket en brann som ikke fantes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-07_1033_2798.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-07_1033_2798.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:31</itunes:duration>
+      <pubDate>Tue, 07 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Statuer, åpent hus, snitter, penis-hull, blinde-spørsmål og Old Spice</title>
+      <description><![CDATA[I dag snakker vi om forgjengelige statuer, blindes strømregninger, åpent hus med snitter, penis-hull og Old Spice. For svaret er nettopp "Old Spice", men hva er spørsmålet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-08_1059_3247.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-08_1059_3247.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:58</itunes:duration>
+      <pubDate>Wed, 08 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stavangersmurfens skilsmisse-telefon</title>
+      <description><![CDATA[Det finnes nettsteder, apper, tv-program som hjelper single å finne en livsledsager, emn ingen som hjelper deg å bli skilt. Stavangersmurfen tar grep.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-09_1024_3855.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-09_1024_3855.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:26</itunes:duration>
+      <pubDate>Thu, 09 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Fyrrig hane, tidlig lighter, skilsmisse-telefon, alligator i buksa, Zip-cola og Yogi-ismer.</title>
+      <description><![CDATA[Er hanen enda friskere enn kaninen? Kom høna før egget? Hvorfor har Stavangersmurfen oppretta skilsmisse-telefon? Hva fant politiet i strømpebuksa på bilisten? Hvordan smaker Zip-cola? Og husk, det er ikke over før det er over!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-09_1128_3446.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-09_1128_3446.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:29</itunes:duration>
+      <pubDate>Thu, 09 May 2019 13:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Vaskepulver-tips, sjaman-sang, alpakka og Harley og "Stillitsen" på fire minutter</title>
+      <description><![CDATA[I dag får du et trippelt forbrukertips! Skjæveland synger om en sjaman, mens du skal finne ut hva en amorøs alpakka sier. Men det er ikke over før det er over. Du lærer også en ny klassiker på fire minutter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-13_1047_3605.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-13_1047_3605.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:15</itunes:duration>
+      <pubDate>Mon, 13 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Jente-tur, Sjaman for livet, Rapunzel-syke, penge-feiltrykk, såra hane og musikk-pyramide</title>
+      <description><![CDATA[Hvor gammel er du når du drar på gutte/jentetur? Hvilket land har flest skrivefeil på pengeseddelen? Hvem ligger øverst på den musikalske næringspyramiden? Hvordan gikk det med den ny-opererte hanen? Og kan "Sammen for livet" bli til "Sjaman for livet?"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-14_1048_3128.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-14_1048_3128.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:48</itunes:duration>
+      <pubDate>Tue, 14 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Borettslag, balladen om en gammel mann, gammel russ, TUK-TUK og bunad</title>
+      <description><![CDATA[I dag lager vi et borettslag og vi setter verdensrekord med TUK-TUK. Vi synger om verdens eldste mann og får en 17.mai-oppdatering fra redaksjonens eldste medlem(104), Ellers er svaret "bunad", men hva er spørsmålet?
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-15_1037_389.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-15_1037_389.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:49</itunes:duration>
+      <pubDate>Wed, 15 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Dugnadsfri, gull-do, hemmelige oppskrifter, stortromme, Stavangersmurfens tog-forslag og Cola&you</title>
+      <description><![CDATA[Dagen før dagen lanserer Stavangersmurfen et nytt tog-konsept. Skjæveland har dugnadsfri og Kvindesland synger på do. Eller smaker vi cola fra Spania, før vi diskuterer hemmelige oppskrifter og satusen til stortromma.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-16_1024_1355.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-16_1024_1355.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration></itunes:duration>
+      <pubDate>Thu, 16 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stavangersmurfen revolusjonerer 17.mai-togene</title>
+      <description><![CDATA[La toget stå og folket gå!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-16_1246_2030.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-16_1246_2030.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:35</itunes:duration>
+      <pubDate>Thu, 16 May 2019 14:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Bunad, Palme-jakke, sekkeløp, smelling, Rio-cola og foss med grell</title>
+      <description><![CDATA[Gratulerer med dagen! Utakt feirer med bunad, Palme-jakke, sekkeløp, smelling, cola og foss med grell.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-17_1203_2416.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-17_1203_2416.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:30</itunes:duration>
+      <pubDate>Fri, 17 May 2019 14:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Bunadsko, Champagne-frokost, EL-spøkelser, dumme nordmenn og "Mønsteret rakner" på fire minutter</title>
+      <description><![CDATA[I dag snakker vi om inn-gåing av bunadsko og dumme nordmenn. Er champagnefrokost mer korrekt enn brennevinsfrokost? Kan man ha spøkelser i radioen? Og har du lyst til å lære deg klassikeren "Mønsteret rakner" på fire minutter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-20_1029_1600.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-20_1029_1600.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:14</itunes:duration>
+      <pubDate>Mon, 20 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Lurt sted, slapp evolusjon, dårlig hjerneforskning, ordet "dyrt" og lei leie-episode i Amsterdam </title>
+      <description><![CDATA[Har du lagt ting på et lurt sted? Hva vet du om dårlig hjerneforskning? Hva møtte engelskmannen som leide hus i Amsterdam? Burde vi mennesker hatt flere super-egenskaper?  Og hva menes egentlig med "dyrt"?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-21_1057_2558.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-21_1057_2558.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:32</itunes:duration>
+      <pubDate>Tue, 21 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Verdens største borettslag, dumdristighet, ande-slosskamp, sulten-handling og svaret er "diskotek".</title>
+      <description><![CDATA[Verdens største borettslag, dumdristighet, ande-slosskamp, sulten-handling og svaret er "diskotek". 
+Men hva er spørsmålet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-22_1032_3644.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-22_1032_3644.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:23</itunes:duration>
+      <pubDate>Wed, 22 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stavangersmurfens klagemur.com</title>
+      <description><![CDATA[Klagemur.com, et samlingssted på nettet for alle som vil syte og klage om alt fra svigermor til radioprogram.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-23_1005_47.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-23_1005_47.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:19</itunes:duration>
+      <pubDate>Thu, 23 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Avsmak, Stavangersmurfens klagemur, japanske navn, tysk cola og bryggeri-bilen som forsvant</title>
+      <description><![CDATA[Har du opplevd å få fullstending nok av noe? Vet du hvordan du uttaler et japansk navn? Hva er Stavangersmurfens klagemur? Hvordan fikk bryggeriet den stjålne bilen sin tilbake?  Og hvordan smaker "Cola American taste"?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2019-05-23_1029_588.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2019-05-23_1029_588.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:35</itunes:duration>
+      <pubDate>Thu, 23 May 2019 12:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+  </channel>
+</rss>

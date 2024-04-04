@@ -1,0 +1,475 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Gamle episoder fra Utakt</title>
+    <link>https://github.com/alfkd/podcast</link>
+    <description>Vi har spist kjøttkaker fra 1945 og håndhilst på Phil Collins. Vi har både trikot og klokkestreng på kontoret. Sånn er Utakt også - litt av alt. Per Øystein Kvindesland og Bjørn Olav Skjæveland tenker høyt, ofte på sviktende grunnlag.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Min egen - basert på https://github.com/sindrel/nrk-pod-feeds</generator>
+    <lastBuildDate>Thu 04 Apr 2024 10:04:45 +02:00</lastBuildDate>
+    <pubDate>Thu 04 Apr 2024 10:04:45 +02:00</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    <item>
+      <title>10.11.2014 Pingpongball-spytting, Fiskesprett-VM, palindrom-sangen samt luft-sex og stirring</title>
+      <description><![CDATA[Klarer vi å slå verdensrekorden i Pingpongball-spytting? Vil verdens-enerene i Fiskesprett noen gang møtes til duell? Hvordan låter egentlig palindrom-sangen dersom du spiller den baklengs? Og går det an å kombinere mesterskapene VM i luft-sex og VM i stirring? Drage i løvblåser blir noe helt annet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1111-0827_6355129143.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1111-0827_6355129143.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:23</itunes:duration>
+      <pubDate>Tue, 11 Nov 2014 09:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>17.11.2014 Kortreist bryllup, minigris-intervall, feriebryster, karnapp-utleie og søppel-puddel.</title>
+      <description><![CDATA[Vi anbefaler kortreiste bryllup og observerer mann og minigris som driver intervalltrening. Vi lanserer karnapp-utleie og snakker om ferie-bryster. Allmennlæreren ser dyr på høylys dag, og sjuåringen Vebjørn er tilbake. Nevnte vi drageflyging gjennom takluke? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1118-0832_6355189657.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1118-0832_6355189657.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:26</itunes:duration>
+      <pubDate>Tue, 18 Nov 2014 09:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>24.11.2014 Rørlegger i dress, klumper i sausen, urin-avgift og digitale nisseluer</title>
+      <description><![CDATA[Vi oppfordrer arbeidstakere til å tenke utforbi boksen i klesveien. Sjuåringen lager saus, allmennlæreren snakker om urin-avgift og personalet tar et oppgjør med digitale nisseluer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1125-1044_6355250921.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1125-1044_6355250921.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:22</itunes:duration>
+      <pubDate>Tue, 25 Nov 2014 11:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>01.12.2014 Den første budeia, Santa Kucia, verdens styggeste juletre, pornojapaner og interpellasjon</title>
+      <description><![CDATA[Hva tenkte den første som melka et dyr? Hvor står verdens styggeste juletre? Hvilken kalender foretrekker Vebjørn(7)? Hvordan arrangerer du utekran-drill? Hva er interpellasjon? Utakt spør og Utakt svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1202-0832_6355310622.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1202-0832_6355310622.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:56</itunes:duration>
+      <pubDate>Tue, 02 Dec 2014 09:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Tissing på frelsesarmeens julekonsert, kjøping av stjerne til jul og ødelegging av nisse</title>
+      <description><![CDATA[Per Øystein Kvindesland og Bjørn Olav Skjæveland byr på juleproblematikk du gjerne ikke hadde tenkt på. Er det en god ide å gi landområder til datteren din til jul? Kanskje ikke]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1209-1227_6355372486.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1209-1227_6355372486.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:31</itunes:duration>
+      <pubDate>Tue, 09 Dec 2014 13:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>22.12.2014  Grevinnen og hovmesteren, neglisjert neglisje, pinnekjøtt-frityr og mandelteori</title>
+      <description><![CDATA[Funker Grevinnen og hovmesteren på radio? Går det an å neglisjere en neglisje? Hvordan smaker fritert pinnekjøtt og hvordan kan du på en enkel måte finne mandelen? Utakt spør og Utakt svarer. Kvelden før kvelden før kvelden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2015-0105-0533_6355607669.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2015-0105-0533_6355607669.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:03</itunes:duration>
+      <pubDate>Mon, 05 Jan 2015 18:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>05.01.2015 Tungvektshopping, fjestrening, Colatest og kjendismøter</title>
+      <description><![CDATA[Hvem kan egentlig gå med hatt? Hvorfor og hvordan kan man trene opp fjeset? Hva er tungvektshopping? Hvor mange Cola-flasker klarer vi å samle, og hvorfor må nyttårs-salget starte så tidlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2015-0106-0904_6355613208.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2015-0106-0904_6355613208.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:59</itunes:duration>
+      <pubDate>Tue, 06 Jan 2015 10:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>12.01.2015 Kongesang-problematikk, gjensydde dress-lommer, uheldig markedsføring og tåkelur-hørsel</title>
+      <description><![CDATA[Hvorfor er det dumt å bruke levende gullfisk i markedsføring? Hvorfor er lommene i dressen sydd igjen? Hvordan skal vi synge Kongesangen når vi får dronning på toppen? Hvordan smaker den botaniske Cherrytree-colaen og hvor mange ganger er det greit å si "hæ?" når du ikke hører hva samtalepartneren sier? Utakt spør og Utakt svarer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2015-0113-0956_6355674047.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2015-0113-0956_6355674047.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:13</itunes:duration>
+      <pubDate>Tue, 13 Jan 2015 10:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>19.01.2015  50% mer effektiv, kateter eller kateter, kjempesperm og store mobliler</title>
+      <description><![CDATA[Når vaskemidlene stadig blir 50% mer effektive - hvor dårlige var de egentlig før?  Hva er forskjellen på kateter og kateter?  Hvorfor kjøper single menn større mobiltelefoner, og hvor stor kan en sperm egentlig bli? Utakt spør og Utakt svarer.
+
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2015-0120-0941_6355734374.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2015-0120-0941_6355734374.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:41</itunes:duration>
+      <pubDate>Tue, 20 Jan 2015 10:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>26.01.2015 Brødskjæringsmaskin, dum Avocado, kjøleskap-lukt, Bevernylon, Werner og oljepris</title>
+      <description><![CDATA[Hvordan skaper man flyt ved brødskjæringsmaskinen? Hva er likheten mellom en Ipad og en Avocado? Hvordan få vekk vond lukt av kjøleskapet? Hva er forskjellen på bevernylon og vanlig nylon? Hva synes vi om helikopterbilen, og hvem er Werner? Utakt spør og Utakt svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2015-0127-0826_6355794439.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2015-0127-0826_6355794439.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:22</itunes:duration>
+      <pubDate>Tue, 27 Jan 2015 09:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>02.02.2015 Ryggekameravisker, adjektivhistorie, Super-Bowl-tipping, frostrøyk og Brand-fakkel</title>
+      <description><![CDATA[Litt av alt i dette programmet også. Banebrytende oppfinnelse, radioaktiv adjektivhistorie, unike tippetips, råd mot kattepiss, skremmende frostrøyk, Cola fra Østerrike samt en aldri så liten Brand-fakkel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2015-0203-0919_6355855230.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2015-0203-0919_6355855230.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration></itunes:duration>
+      <pubDate>Tue, 03 Feb 2015 10:02:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>09.02.15 Skummel lightergass, hester som ikke forstår norsk og cowboystøvler som kom hjem</title>
+      <description><![CDATA[Per Øystein Kvindesland og Bjørn Olav Skjæveland sender Utakt hver mandag fra kl 22 til midnatt i NRK P1. Godt humør og godt selskap. Denne episoden med blant annet belgisk stjerne-eksempel, forsmådd kineser, radioaktiv adjektivhistorie og test av Cock-Cola. Er hanen gal eller god? Utakt spør og Utakt svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT64255_5F3E09AC9E904773B6F5015687E80C6A.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT64255_5F3E09AC9E904773B6F5015687E80C6A.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:24</itunes:duration>
+      <pubDate>Tue, 10 Feb 2015 09:02:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>16.02.2015 Tidlig frammøte, bonde-nachspiel, udrikkelig brus, kontaktannonser og general-tabbe</title>
+      <description><![CDATA[Når du spiser middag kl 12.00 - når arrangerer du da nachspiel? Hvordan bør man utforme en kontaktannonse? Hva møtte allmennlæreren på fjellet? Hvordan smaker bacon og blåmuggost-brus? Hvilken generaltabbe gjorde vi i Berlin, og hvorfor skal du ikke bruke sirkelsag på laks? Utakt spør og Utakt svarer. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_57803F2D212442C8BD5AB8833C8513DA.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_57803F2D212442C8BD5AB8833C8513DA.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:16</itunes:duration>
+      <pubDate>Mon, 16 Feb 2015 22:02:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>23.02.2014 Upassende fuglenavn, naken-cowboy, handsfree-trøbbel, diplomat-kamel og smakløs cola</title>
+      <description><![CDATA[Svenskene må forandre upassende fuglenavn. Det bør vi også gjøre! Bruk av handsfree i bilen kan by på utfordringer og diplomatiske gaver er ikke heller ikke enkelt. Hvordan smaker cola fra Lanzarote og hvorfor gikk en naken cowboy løs i Haugesund? Utakt spør og Utakt svarer. I NRK P1 hver mandag fra 2205 til midnatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_5625C291186A43F1AB5F8E472504328D.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_5625C291186A43F1AB5F8E472504328D.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:17</itunes:duration>
+      <pubDate>Tue, 24 Feb 2015 08:02:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>02.03.2015 Lo-gjenbruk, løp vs. ski, uklar gave, Cooper-test, retningsans på film og Berta Cola </title>
+      <description><![CDATA[Er gjenbruk av lo en god ide? Hva har allmennlæren fått av Elias Akselsen, telysholder eller visp? Hvilken himmelretning blir oftest nevnt på film? Hvordan smaker Berta-Cola, og hvordan oppsto Cooper-testen? Utakt spør og Utakt svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_58E97F348A8F4B1BA15C9C07BE2103A6.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_58E97F348A8F4B1BA15C9C07BE2103A6.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:53</itunes:duration>
+      <pubDate>Tue, 03 Mar 2015 08:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>09.03.2015 Gravlykt inne, høyre-venstre, mobinom, kappgang, hunder og KIK-Cola</title>
+      <description><![CDATA[I kveld presenterer Utakt et helt nytt ord! Ellers tester vi kappgang og innendørs gravlykt. Allmennlæreren foreslår lukrativt hundehold mens vi andre smaker på KIK-Cola fra Sri Lanka. Det er som vi sier: "Utakt, litt av alt."]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_F8E42FFF916244E9804B598DF425A80A.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_F8E42FFF916244E9804B598DF425A80A.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:57</itunes:duration>
+      <pubDate>Tue, 10 Mar 2015 01:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>16.03.2015 Stumme-boom, fru vs frøken, ketchup-forbud, tenketank og latmannsannonse</title>
+      <description><![CDATA[Hvor utbredt er egentlig stumhet? Hvorfor forbød franskmennene ketchup? Hvordan jobber man i en tenketank? Hvordan smaker japansk Los Angeles-cola og får du jobb dersom du setter inn en latmanns-annonse?
+Utakt spør og Utakt svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_FA5EE71AFF7A43E783FDB2CF85AE6ADC.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_FA5EE71AFF7A43E783FDB2CF85AE6ADC.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:45</itunes:duration>
+      <pubDate>Tue, 17 Mar 2015 09:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>23.03.15 Halv skatt i mars, lukt av pirat og horehus og rygging med jetfly</title>
+      <description><![CDATA[Vi etterlyser halv skatt i mars, lukter på pirater og horehus, smaker på dansk Bayer-cola og rygger med jetfly. Bare for å nevne noe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT64255_5DD08A0FC98F4FFEB5FE06E47570F05D.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT64255_5DD08A0FC98F4FFEB5FE06E47570F05D.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:34</itunes:duration>
+      <pubDate>Tue, 24 Mar 2015 10:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Utakt podcast 060415</title>
+      <description><![CDATA[ GPS-problematikk, oppvaskmøte, nikers-hets, hverdagsmarsipan samt verdens lengste kø]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT64255_DD6B69AFE11B49908197B4773D8AA59B.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT64255_DD6B69AFE11B49908197B4773D8AA59B.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:20</itunes:duration>
+      <pubDate>Tue, 07 Apr 2015 11:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Utakt podcast 300315</title>
+      <description><![CDATA[Har du ATA, PEP og gammel AJAX på hytta? Mener du Yatzy ikke handler om flaks? Kunne du tenke deg å kjøpe GNAV-spinn-off-produkter? Utakt kan være programmet for deg!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT64255_8545013D0D4F4059AB87D32A18C04218.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT64255_8545013D0D4F4059AB87D32A18C04218.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:53</itunes:duration>
+      <pubDate>Tue, 07 Apr 2015 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>13.04.15 Brillemisbruk, generalprøve, aspik med krem og knivsalg</title>
+      <description><![CDATA[Franskmenn kan endelig kjøpe briller uten resept, mens Skjæveland ikke vil kjøpe kniver fra nederlandske biler. Utakt tar opp viktige saker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT64255_201041ECF1024C47AE698CC377DD8301.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT64255_201041ECF1024C47AE698CC377DD8301.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:50</itunes:duration>
+      <pubDate>Wed, 15 Apr 2015 12:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>20.04.2014 Gammel Gdansk, getaway-Esel, Cuba-cola, softclose-problematikk og Øystein Sunde</title>
+      <description><![CDATA[Vi debriefer etter Polen-tur og forteller om uheldige kjeltringer. 7-åringen gir råd om flise-maling og personalet smaker på Cuba-Cola fra Sverige. Det blir også tid til Softclose-problematikk og tidligere storhoppere i ny jobb.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_5A40802C3CE949278F842DD31940FE5B.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_5A40802C3CE949278F842DD31940FE5B.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:36</itunes:duration>
+      <pubDate>Tue, 21 Apr 2015 11:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>27.04.2015 Hagestue-narkotika, islandske navn, syk forskning, korps vs.pollen og friluftsmusikal </title>
+      <description><![CDATA[Hvordan være inne - ute? Hvor lang tid tar det å grave gjennom jordkloden? Vil Utakts friluftsmusikal skape folkebevegelse? Hvordan smaker  Coka Quina fra Bolivia, og tenner manne-rotter på dame-rotter i blazer?  Gode spørsmål og godt humør!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_4212F16723DC4A20AFB7070427FCE598.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_4212F16723DC4A20AFB7070427FCE598.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:26</itunes:duration>
+      <pubDate>Tue, 28 Apr 2015 10:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>04.05.2015 Sex på Ikea, hovedstadsforvirring, øl-kjøling, Vita-Cola, Wok-VM og Tanks</title>
+      <description><![CDATA[Hvorfor har den samme byen ulike navn? Hvorfor har folk sex på Ikea når de kunne valgt Bohus? Hvordan smaker den tyske Vita-Cola, og hvordan gikk det egentlig med Sven Hannawald da han deltok i Wok-VM?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_6F31B4C1D22645198AA1E724E5A707DA.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_6F31B4C1D22645198AA1E724E5A707DA.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:10</itunes:duration>
+      <pubDate>Tue, 05 May 2015 10:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>11.05.2015 Senil-uke, Utakt-karakter, svømmedyktig, Oscar-forskning og flertallstøys</title>
+      <description><![CDATA[Skjæveland vil ta en ferieuke fra de gamle og gi den til de unge, mens Kvindesland vil være venner med alle. Utakt er imidlertid enige om at programmet trenger en karakter og håper den er bedre en G+. I tillegg byr vi på 17. mai-tale-tips, svømmedyktighet, flertallstøys  og forskning presentert av  allmennlæreren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_CA9327FC717A4AA283CD14BE3D650D1C.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_CA9327FC717A4AA283CD14BE3D650D1C.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:44</itunes:duration>
+      <pubDate>Tue, 12 May 2015 01:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>18.05.2015 Vrien nasjonalsang, hamburger-tabbe, ketchup på mange språk og Death Valley Cola</title>
+      <description><![CDATA[Vi oppsummerer nasjonaldagen, tar et oppgjør med britisk ketchup, ler av Mc Donalds, kjøper fisk på internettet, smaker på Death Valley Cola og serverer 7-åringens ferietips til barnefamilier.
+Utakt, ved Per Øystein Kvindesland og Bjørn Olav Skjæveland, kan du høre i NRK P1 hver mandag mellom 22 og midnatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_96D5EB57A97B49C480E7D601F528F115.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_96D5EB57A97B49C480E7D601F528F115.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:53</itunes:duration>
+      <pubDate>Tue, 19 May 2015 11:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>25.05.2015 MGP-avstemming, do-tekster, utrolige lover og cola fra Filippinene</title>
+      <description><![CDATA[Vi tar et oppgjør med MGP-avstemmingen og moreller Vi etterlyser do-tekster og smaker på cola fra Filippinene. Almennlæreren foredrar om lover som ikke holder det de lover og 7-åringen taler om pinsen. En godtepose av et program!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_20FFD1C368AF4714B34F9F03CC966C0F.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_20FFD1C368AF4714B34F9F03CC966C0F.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:11</itunes:duration>
+      <pubDate>Tue, 26 May 2015 13:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>01.06.2015 Den femte statsmakt, smøystol-størrelse, isbjørn-prat, dynamitt-camp pg Planet-cola</title>
+      <description><![CDATA[Utakt er nyhetsledende, Utakt gir forbrukertips, Utakt tar en isbjørn-prat, Utakt smaker på Planet-cola, Utakt drar på dynamitt-camp og Utakt får forsikringer fra 7-åringen Vebjørn. Et nokså godt radioprogram, med andre ord.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_1BAD63B57AFD489D8B71D09B97E2C05B.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_1BAD63B57AFD489D8B71D09B97E2C05B.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:13</itunes:duration>
+      <pubDate>Tue, 02 Jun 2015 10:06:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>08.06.2015 Fahrenheit, Vebjørn-avskjed, bryllupsreise, kloakk-safari og hermetisk frukt </title>
+      <description><![CDATA[Sesongavslutning med høy temperatur, dumme måle-enheter, forferdelige bryllupsreiser, sentimentale avskjeder og cola fra Grekenland. I tillegg til kloakk-safari, hermetisk frukt og bacon-mangel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_7C48C3F87737413C84E53A0EE5BEE5DC.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_7C48C3F87737413C84E53A0EE5BEE5DC.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:57</itunes:duration>
+      <pubDate>Tue, 09 Jun 2015 11:06:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>17.08.2015 Sesongstart, dyrehage-dyr, frisør-øl, kjeglesamler, strand-konge og ny konkurranse</title>
+      <description><![CDATA[En sommer er over, men hva sitter vi igjen med? For Utakts del handler det om dyrehage-dyr, frisør-øl, kassa-kultur i Frankrike, en kjeglesamler, en strand-konge og en ny konkurranse.
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT64255_15107E84D33D421AA8B74C48C26C0F71.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT64255_15107E84D33D421AA8B74C48C26C0F71.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:44</itunes:duration>
+      <pubDate>Tue, 18 Aug 2015 09:08:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>24.08.2015 Kredittkortregninger, Elnett-damer, høye edderkopper og broen over Kwai-cola</title>
+      <description><![CDATA[Edderkopper på Kokain, brannfarlige damer med Elnett, tåpelig lave kredittkort-regninger og cola fra broen over Kwai. Skjeve kommunegrenser, migranter og konkurranse ble det også plass til.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_F20B8D11D93E42C18BA244A2B9C3449B.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_F20B8D11D93E42C18BA244A2B9C3449B.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:48</itunes:duration>
+      <pubDate>Tue, 25 Aug 2015 08:08:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>31.08.2015 Panteregler, hare-tider, Vaginadalen, oppvarmingssignering og Tøyen-cola</title>
+      <description><![CDATA[Programmet tar i dag for seg pantetrøbbel, hare-tider, oppvarmings-signering, Vaginadalen og Tøyen-cola. Ellers; Fylkesordfører i hvit dress, konkurranse med bare vinnere og generelt mye godt humør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_12ACCCB71F57492F9F41F1E41CF7F2EE.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_12ACCCB71F57492F9F41F1E41CF7F2EE.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:08</itunes:duration>
+      <pubDate>Tue, 01 Sep 2015 09:09:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>07.09.2015 xxxpiken, xxxdame, kulturkollisjon og brus på 0,45liter</title>
+      <description><![CDATA[Kunsten til Skjæveland trenger nytt navn. Kvindesland trenger ikke service på bilen. Almennlæreren ser på valg-tabber. Ellers blir det Mexicana-cola og rare måle-enheter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT64255_B44D7E910F0F4285BB18BEDA9C8E12B0.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT64255_B44D7E910F0F4285BB18BEDA9C8E12B0.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:04</itunes:duration>
+      <pubDate>Tue, 08 Sep 2015 10:09:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title> 21.09.15 Urinal-helpdesk, fotballsko, sjarlatan-prisen, Fritz-Cola og pornografi-apparat</title>
+      <description><![CDATA[Personalet har vært i hovedstaden, og inntrykkene er mange. Deler av programmet er viet dette. Ellers byr vi på helpdesk i urinalen, sinnsyke fotballsko, usannsynlige prisutdelinger, pornografi-apparat samt test av Fritz-cola og Fritz cola-light.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_CEAC3F1FA1524A5C826A9E4812567C7F.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_CEAC3F1FA1524A5C826A9E4812567C7F.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:42</itunes:duration>
+      <pubDate>Tue, 22 Sep 2015 08:09:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title> 28.09.15 Elvis-vekt, dialekt på GPS, polske nyheter, lade-aggresjon, slovensk cola og Jegermeister</title>
+      <description><![CDATA[I kveld byr vi på Elvis-vekt, dialekt-GPS, polske nyheter, cola fra Slovenia, porno-nostalgi, flosshatt-problematikk, alkoholfri Jegermeister og ellers mye godt humør.
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT64255_31765D441CA74938B03583B2216B984B.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT64255_31765D441CA74938B03583B2216B984B.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:16</itunes:duration>
+      <pubDate>Tue, 29 Sep 2015 00:09:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Utakt podcast 051015</title>
+      <description><![CDATA[I dette programmet spør vi: Er 100% ull egentlig 100% tull? Finnes det nougat i Nugatti? Går det an å strikke bryster? Er det mulig å oppgradere til et rom med vannlekkasje? Snakker allmennlæreren utydelig og er rugby tøffere enn fotball?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_98883B7D70FE4B1E8BBC9632C76FE36D.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_98883B7D70FE4B1E8BBC9632C76FE36D.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:48</itunes:duration>
+      <pubDate>Tue, 06 Oct 2015 09:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>12.10.2015 Kvalik-kaos, Øl på Sydpolen, tenåringsrauting, påskemarsipan og Skipper Worse</title>
+      <description><![CDATA[I kveldens program byr vi på: Kvalifiseringskaos i Karibien, øl-stripping på Sydpolen, ekstrem-stryking i England, tenåringsrauting i USA,  cola fra Danmark og norsk påskemarsipan i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/NRKDT60424_AC6289BEE9B942F8B8622498E614D520.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/NRKDT60424_AC6289BEE9B942F8B8622498E614D520.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:35</itunes:duration>
+      <pubDate>Tue, 13 Oct 2015 08:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>19.10.2015 volleyballfeiring, lytting i mikrofon, sprangridnings-kritikk, Rick Astley og nudler</title>
+      <description><![CDATA[Vi tøyser med volleyballfeiring, nudle-kasting, hentesveising, Rick Astley-terrorisering og premiering av hester på lavt blodsukker. For å nevne noe. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2015-10-20_712_1737.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2015-10-20_712_1737.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:32</itunes:duration>
+      <pubDate>Tue, 20 Oct 2015 09:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>26.10.2015 Dekkmotell,bacon-krise, Tullemor, utdeo-trilling og Ice Blue-tagging</title>
+      <description><![CDATA[I kveld byr vi på kommode-henting, dekk-motell, bacon-krise, utedo-dytting, parfyme-tagging og cola fra Dublin. For å nevne noe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2015-10-27_837_3106.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2015-10-27_837_3106.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:06</itunes:duration>
+      <pubDate>Tue, 27 Oct 2015 09:10:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>02.11.2015 Fulle finer, vrien ruteopplysning, enkle kår og tvilsomme avlysninger</title>
+      <description><![CDATA[ Fulle finker, vrien ruteopplysning, oppsiktsvekkende avlysninger, enkle kår, cola fra Grekenland og droner for enhver smak.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2015-11-3_719_1101.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2015-11-3_719_1101.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:44</itunes:duration>
+      <pubDate>Tue, 03 Nov 2015 08:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>09.11.2015 Dynetrekk, rettskriving, strand-stjeling, satelittpriser og sløyd</title>
+      <description><![CDATA[Sterkt program med følgende overskrifter: Tyver stjal strand! Allmennlæreren stjal fra Vazelina bilopphøggers! Sidemating på dynetrekk må forbys! Sløyd-frustrasjon i verdens rikeste land!  Deltager-Syke satellitt-priser!  Kjør program!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2015-11-10_759_2133.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2015-11-10_759_2133.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:42</itunes:duration>
+      <pubDate>Tue, 10 Nov 2015 08:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>16.11.2015 Talent-oppdagelse, trappeheis, ungarske aviser, Ubuntu-cola og Messi-kjøp.</title>
+      <description><![CDATA[Hvordan oppdaget du ditt talent? Hva skriver de ungarske avisene i dag? Hvorfor får Skjæveland tilbud om trappeheis? Bør Norge kjøpe Messi? Hvordan smaker Ubuntu-cola og hvordan gikk det med postmannen som løp maraton?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2015-11-18_824_2603.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2015-11-18_824_2603.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:11</itunes:duration>
+      <pubDate>Wed, 18 Nov 2015 09:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>23.11.15 støvsuging, heising, reising, reisning, budsjettering, smaking og sparking</title>
+      <description><![CDATA[Hva er det dummeste du har støvsugd? Hvordan kommer du i heisen? Hva bør almennlæreren bruke reisestipendet sitt på? Hvordan smaker cola fra Ungarn og hva blir 111111111 multiplisert med 111111111?
+Utakt spør og Utakt svarer. Hver eneste mandag mellom 22 og midnatt i NRK P1.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2015-11-24_810_460.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2015-11-24_810_460.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:42</itunes:duration>
+      <pubDate>Tue, 24 Nov 2015 09:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Ipad-premie, jul i skomakerfjellet, vase-oppretterske, brusbestilling og julegran-hærverk</title>
+      <description><![CDATA[Har du noengang sett "Jul i skomakerfjellet"? Har du noengang hørt om OL i enkeltøvelser? Har du noengang hørt om lysslyngevase-opprettersken i Wrexham? Har du noensinne vunnet en Ipad? Har du noensinne hørt et radioprogram som tar for seg disse temaene? Dette er Utakt!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2015-12-1_90_964.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2015-12-1_90_964.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:08</itunes:duration>
+      <pubDate>Tue, 01 Dec 2015 10:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>07.12.2015 Balsam, nisselue med lyd, cola fra DDR, elendige sjernetegn og 602.000 julelys</title>
+      <description><![CDATA[Vi lanserer presangen til den som har alt. Vi setter juletre-rekord i Canberra, kritiserer stjernebilder, smaker på cola fra DDR og intervjuer folk iført nisselue som spiller og beveger seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2015-12-8_755_2270.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2015-12-8_755_2270.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:08</itunes:duration>
+      <pubDate>Tue, 08 Dec 2015 08:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>14.12.2015 Utakt-evangeliet, spilleregler, rygge-plate, nisse-krise og flyplassavgift</title>
+      <description><![CDATA[Siste Utakt før julaften. Og dette skal dere ha til tegn; en irsk munk, noen vanskelige spilleregler, en kinesisk cola, en kø-hater, en flyplassavgift og generelt godt humør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2015-12-15_1120_2858.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2015-12-15_1120_2858.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:34</itunes:duration>
+      <pubDate>Tue, 15 Dec 2015 12:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>25.12.2015 Jul i Utakt</title>
+      <description><![CDATA[Jul i Utakt betyr godt humør på juledagskvelden. Vi tar for oss pakkeutdelingsregler, mannepresanger, utløpte gavekort, lange julesanger, svensk julebrus og mandarinbåter som hverken er mandarin eller båt. For å nevne noe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2015-12-25_221_561.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2015-12-25_221_561.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:36</itunes:duration>
+      <pubDate>Fri, 25 Dec 2015 23:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>04.01.2016 Pysjamas-kritikk, Facebook-kommentering, korrespondenten og nye grunnstoff</title>
+      <description><![CDATA[Første Utakt i 2016 byr på pysjamasproblematikk, korrespondent-debut, baconsjøgress, gambisk cola, doble skjegg, Facebook-likes kun for kvinner og kjønnsskifte for trær... for å nevne noe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2016-1-5_720_1591.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2016-1-5_720_1591.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:29</itunes:duration>
+      <pubDate>Tue, 05 Jan 2016 08:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>11.01.2016 julekortbehandling, dinosaur-korrespondent, smart-helsetrøye og Mexicola</title>
+      <description><![CDATA[Vi kaster/gjemmer julekort, prøver hjelm mot hårtap, tester Mexicola og avslører Kvindeslands mørke radio-fortid. I tillegg møter du dinosaur-korrespondenten og isbad-skeptikeren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2016-1-12_751_2607.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2016-1-12_751_2607.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:44</itunes:duration>
+      <pubDate>Tue, 12 Jan 2016 08:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>18.01.2016 Feilsendt sms, aldersbestemt bursdag, penisforskning, coctailbær og Thy-cola</title>
+      <description><![CDATA[I kveld mottar vi feilsendt SMS, diskuterer bursdagsfeiringer, måler penis-velstanden, snakker kinesisk, smaker Thy-cola og irriterer oss over Cocktail-bær. For å nevne noe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2016-1-19_101_614.MP3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2016-1-19_101_614.MP3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:45</itunes:duration>
+      <pubDate>Tue, 19 Jan 2016 11:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+  </channel>
+</rss>

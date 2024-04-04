@@ -1,0 +1,486 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Gamle episoder fra Utakt</title>
+    <link>https://github.com/alfkd/podcast</link>
+    <description>Vi har spist kjøttkaker fra 1945 og håndhilst på Phil Collins. Vi har både trikot og klokkestreng på kontoret. Sånn er Utakt også - litt av alt. Per Øystein Kvindesland og Bjørn Olav Skjæveland tenker høyt, ofte på sviktende grunnlag.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Min egen - basert på https://github.com/sindrel/nrk-pod-feeds</generator>
+    <lastBuildDate>Thu 04 Apr 2024 10:04:25 +02:00</lastBuildDate>
+    <pubDate>Thu 04 Apr 2024 10:04:25 +02:00</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    <item>
+      <title>16.09.2013 Menn som stirrer på vaskemaskiner. Induksjonsvafler og Servietetter.</title>
+      <description><![CDATA[Vi stirrer på vaskemaskiner, finner opp induksjonsvafler, diskuterer PI med en 6 åring, strikker futteral til kleshengere og kjefter på sementbilsjåføren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-0917-0928_6351500702.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-0917-0928_6351500702.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:38</itunes:duration>
+      <pubDate>Tue, 17 Sep 2013 11:09:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>23.09.2013 Lange foreldremøter, barnevakt i trikot, ulovlig kjeks-utdeling og gule gulerøtter</title>
+      <description><![CDATA[Hvordan kan vi gjøre foreldremøtene kortere? Hvem er den perfekte leietakeren? Hvordan smaker gule gulerøtter? Kan man bli straffet for å gi bort kjeks? Hva forteller Tistelen og Rognebærtreet?
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-0924-0929_6351561219.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-0924-0929_6351561219.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:14</itunes:duration>
+      <pubDate>Tue, 24 Sep 2013 11:09:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>12990kr for 63kg "tykk-tv" og en geit uten lukkemuskel som valgvinner. </title>
+      <description><![CDATA[Norge fikk ny blå-blå regjering denne kvelden. Utakt gikk for en to-programleder modell, etter det vi har grunn til å tro. Etter det Utakt erfarer vil også solkremdusjen og puddel-attentat være å agendaen,-sier kilder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1001-0954_6351621812.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1001-0954_6351621812.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:43</itunes:duration>
+      <pubDate>Tue, 01 Oct 2013 11:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>07.10.2013 Dyre Cola-vaner, uenige spanjoler, mektig fot-deodorant og puff eller pall</title>
+      <description><![CDATA[Utakt heller ut brus, legger beina på puffen og prøver mektig fot-deodorant, klapper i utakt og får en relativt enkel framstilling av relativitetsteorien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1008-1000_6351682333.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1008-1000_6351682333.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:24</itunes:duration>
+      <pubDate>Tue, 08 Oct 2013 12:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>14.10.2013 Gnavspassering, Brødristerbordet, Slikkepinnemannen og agronomisk samkvem</title>
+      <description><![CDATA[Bør det være forskjell på godteri for barn og godteri for voksne? Er ideen om brødristerbordet så god at noen vil tenne på den? Hvem spiller Gnav, og har noen spilt seg fra gård og grunn? Og hvilken godhjerta tyv har vært i garasjen til Skjæveland?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1015-0937_6351742688.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1015-0937_6351742688.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:11</itunes:duration>
+      <pubDate>Tue, 15 Oct 2013 11:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>21.10.2013 Nyser mot solen, vertikalfilming, klatring i tre-stige og Norges eldste kjøleskap</title>
+      <description><![CDATA[Hvorfor nyser noen mot solen? Hvorfor putter noen saltstenger i ørene? Hvorfor filmer alle feil vei med mobiltelefon og hvorfor la Skjæveland parkett RUNDT kjøleskapet til bestemoren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1022-0319_6351805206.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1022-0319_6351805206.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:54</itunes:duration>
+      <pubDate>Tue, 22 Oct 2013 17:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>28.10.2013 Eldreparkering, Navn på biler, Okken Bom, gratis bilvask, Madagaskarbilde og neseblod.</title>
+      <description><![CDATA[Parkering blant dem som bygde landet. Hvilke biler «tåler» å ha eget navn? Hvordan tolker førsteklassingen «Okken Bom» og hvordan får du gratis pølse og bilvask på bensinstasjon?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1029-0919_6351863527.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1029-0919_6351863527.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:40</itunes:duration>
+      <pubDate>Tue, 29 Oct 2013 10:10:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>04.11.2013 Kvalik og kvalif, sykehusputen, hvite elefant-gaver,regress og leksikon til salgs</title>
+      <description><![CDATA[Hvorfor har kvalifisering blitt til kvalik? Hvorfor må sykehusputer være vonde å ligge på ? Ble Richard Nixon glad da han fikk to Pandaer i gave? Vil amerikansk slankemiddel virke på Skjæveland?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1105-0924_6351924031.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1105-0924_6351924031.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:02</itunes:duration>
+      <pubDate>Tue, 05 Nov 2013 10:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>11.11.2013 Sigvart Dagsland gjesteprogramleder. Ellers er det meste som før.</title>
+      <description><![CDATA[Kvindesland meldte forfall, Skjæveland trengte med-programleder og Sigvart Dagsland tok jobben. Det gikk fin-fint. Han komponerte sogar sang på direkten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1112-1005_6351984760.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1112-1005_6351984760.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:28</itunes:duration>
+      <pubDate>Tue, 12 Nov 2013 11:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>18.11.2013 Gruff, sjakk-overskrifter, hestepresang,  sjokoladepoding og tippe-høne.</title>
+      <description><![CDATA[Kan egentlig gruff kureres? Har sjakk-journalistene sovet i timen? Ble John Major glad for å få en hest? Hvordan gikk det med tippe-høna vår, og hvordan smaker Caramellohengrin? 
+ 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1119-0932_6352045040.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1119-0932_6352045040.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:44</itunes:duration>
+      <pubDate>Tue, 19 Nov 2013 10:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>25.11.2013 Svaneskiting, avspasseringskritikk, Obamaque og inkonsekvent keivmaker</title>
+      <description><![CDATA[Per Øystein er ute med strekk. Det betyr at allmennlærer Olav Hove må svare for bitende avspasseringskritikk. Er det utakt sin feil at NSB sin ruteopplysningstelefon er lagt ned og hvorfor er det billigere å fly via Amsterdam og Frankfurt enn bare til Amsterdam og Frankfurt? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1126-1001_6352105717.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1126-1001_6352105717.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:39</itunes:duration>
+      <pubDate>Tue, 26 Nov 2013 11:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>02.12.2013 Diskrete postpakker, livsfarlig jul, døde fugler i lufta og posesmelling innenfra</title>
+      <description><![CDATA[Hvor diskret er egentlig en diskret innpakning? Hvorfor mener allmennlæreren at jula er farlig? Hvordan dør fuglene – i lufta eller på bakken? Hva vet førsteklassingen om Myrra? Hvordan oppleves pose-smelling fra posens ståsted? Hva er lakris-sjakk? Utakt spør, og Utakt gir svar!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1203-0956_6352166150.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1203-0956_6352166150.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:17</itunes:duration>
+      <pubDate>Tue, 03 Dec 2013 10:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>09.12.2013 Carola-kommandering, Scotland Yard, mandelkjerneteori samt gull,røkelse og høvelbenk </title>
+      <description><![CDATA[Hvorfor brølte Utakt på Carola? Hvorfor heter det Scotland Yard i England? Hvordan finner du mandelen? Hva er Myrra? Hvordan smaker fjorårets pepperkakehus, stekt i frityr? Siste Utakt før jul gir svar!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1210-0956_6352226646.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2013-1210-0956_6352226646.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:03</itunes:duration>
+      <pubDate>Tue, 10 Dec 2013 10:12:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>06.01.2014 Juletrefest i Egypt, oppvaskmøte, epledietten og juletrebrenning</title>
+      <description><![CDATA[Tidenes største juletrefest? Oppvaskmaskiner som får smake egen medisin. Blir man tynnere av å leve som Adam og Eva? Er det egentlig en fordel å ha fordelskort? Og kan et brennene juletre bli vakkert som Morild?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0107-0941_6352468455.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0107-0941_6352468455.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:03</itunes:duration>
+      <pubDate>Tue, 07 Jan 2014 10:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>30.12.2013 Dab-inferno, Svenskehilsen fra Norwegian, Utakts nyttårstale og fattigmannsfyrverkeri</title>
+      <description><![CDATA[Dab-inferno i norske hjem. Svenskehilsen fra Norwegian. Utakt med førsteklasses nyttårstale samt produksjon av  fattigmannsfyrverkeri]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0113-0609_6352523352.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0113-0609_6352523352.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:38</itunes:duration>
+      <pubDate>Mon, 13 Jan 2014 19:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>13.01.14 Trekkspillavhengighet, spansk film best på norsk og lag et youtube-fenomen</title>
+      <description><![CDATA[Utakt vil hjelpe de trekkspillavhengige og deres pårørende. Ellers er det overraskende at de som snakker spansk snakker bedre norsk på film enn de som snakker norsk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0114-1043_6352529329.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0114-1043_6352529329.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:43</itunes:duration>
+      <pubDate>Tue, 14 Jan 2014 11:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>20.01.2014  Fra Pols til Kols, Toffin-forskning, sykehusputer og Spellemann-oppførsel</title>
+      <description><![CDATA[Hvordan gjøre Polsen mer tidsaktuell? Hvorfor er Toffinen både hard og myk? Hvorfor er sykehusputene så vonde? Hvordan skal man oppføre seg på Spellemannsprisen? Vil du kjøpe Flexicon? 
+Utakt spør og Utakt svarer!
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0121-0935_6352589378.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0121-0935_6352589378.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:52</itunes:duration>
+      <pubDate>Tue, 21 Jan 2014 10:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>27.01.2014 Bieberfrykt, neglisjerte verktøy, legekontor-lektyre og tøysepave på internett</title>
+      <description><![CDATA[Hvorfor skaper Justin Bieber  frykt på soverommet. Hvilke verktøy får aldri være med i voldsfilm? Er «skreddersydd» et godt salgsargument? Hva er såpe- og synsdietten? Hvorfor skal du være opptatt av legekontor-lektyre? Er Internett vondemannens verk, og hva betyr egentlig Grunnlovens paragraf 98? Utakt spør og Utakt svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0128-1007_6352650051.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0128-1007_6352650051.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:35</itunes:duration>
+      <pubDate>Tue, 28 Jan 2014 11:01:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>03.02.2014  Puddelklipping, danskundervisning, soving på toget og brannfakkel i toalettet</title>
+      <description><![CDATA[
+Vi snakker om OL-grener som forsvant, om bilinnsamling i USA, om stemmen på filmtrailere, om irriterende toalett-uvaner og om danske ord vi liker.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0204-0934_6352710337.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0204-0934_6352710337.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:36</itunes:duration>
+      <pubDate>Tue, 04 Feb 2014 10:02:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>10.02.2014 Slips i makuleringsmaskin, Burkabil, langflyting, maur og ekspertkommentator</title>
+      <description><![CDATA[Er det flere enn oss som ikke forstår ekspertkommentatorene i disse OL-tider? Hvordan oppsto skiskytingen? Hvor farlig er det egentlig å operere en makuleringsmaskin iført slips? Hva er egentlig en Burkabil, og hvor skal man plassere Elton John i platesamlingen. På bokstaven E eller på bokstaven J?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0211-0933_6352770824.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0211-0933_6352770824.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:52</itunes:duration>
+      <pubDate>Tue, 11 Feb 2014 10:02:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>17.02.2014 Smøretips, punktering i badstu, davs og dueskyting samt ost i makuleringsmaskinen</title>
+      <description><![CDATA[Utakt løser de olympiske smøreproblemene.Utakt lapper bildekk under ekstreme forhold. Utakt lager ost i makuleringsmaskinen. Utakt tester dueskyting og kjeglesvinging. Utakt byr rett og slett på godt humør!
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0218-0205_6352832938.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0218-0205_6352832938.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:43</itunes:duration>
+      <pubDate>Tue, 18 Feb 2014 15:02:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>24.02.2014 Feiebrett til besvær, olympiske juksere og smårettskinke i makuleringsmaskinen </title>
+      <description><![CDATA[Utakt irriterer seg over feiebrettet. Utakt tar for seg olympiske juksere. Utakt lager smårettskinke med makuleringsmaskin og Utakt ler av kalenderen på Bali. Utakt byr rett og slett på godt humør!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0225-0100_6352841054.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0225-0100_6352841054.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:53</itunes:duration>
+      <pubDate>Tue, 25 Feb 2014 02:02:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>03.03.2014 Oppstandelse uten klokke, korrektur i India, Spaghettigudstjeneste og makuleringsfrityr.</title>
+      <description><![CDATA[Hvordan klarte man å stå opp før vekkerklokkens tid? Hva er en Spaghettigudstjeneste? Kan man implementere en frityrkoker i en makuleringsmaskin? Hvordan fungerer hundedritt på smørefrie ski? Hvordan fungerer indsisk korrektur på Terje Vigen? Utakt spør, og Utakt svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0304-0954_6352952374.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0304-0954_6352952374.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:24</itunes:duration>
+      <pubDate>Tue, 04 Mar 2014 10:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>10.03.2014 Lue på toppen, telefon-kjøreregler, Argusøyne davs, kryssordhjelp og strippebok</title>
+      <description><![CDATA[Hvem bør ha ansvaret for å ringe tilbake når en samtale blir brutt? Hvorfor drar ikke eldre menn lua ned over ørene? Er det uhøflig å tilby kryssord-hjelp til medpassasjer på fly?  Er det slitsomt med skjeve hornhinner på Argus-øyne? 
+Utakt spør, og Utakt forsøker å gi svar.
+ 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0311-0938_6353012764.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0311-0938_6353012764.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration></itunes:duration>
+      <pubDate>Tue, 11 Mar 2014 10:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>17.03.2014 Popcornpriser, hull i asfalten, spedbarnshikke, trompetfanfare, trusstyv og tele-lover</title>
+      <description><![CDATA[Har vi funnet Norges dyreste popcorn? Hva kan førsteklassingen om Melodi Grand prix? Hvordan demonstrerer man mot hull i asfalten? Hvordan kurerer man hikke? Hva betyr Trussetyv?, og hva kan en levende trompetist tilføre programmet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0318-1005_6353073399.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0318-1005_6353073399.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:18</itunes:duration>
+      <pubDate>Tue, 18 Mar 2014 11:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>24.03.2014 Kalvetipping, Utakt-bok, damekor på jentetur, Mauldvarp-fangst og Ibsen på første klasse</title>
+      <description><![CDATA[Kalven tipper Eliteserien i fotball, Utakt lanserer banebrytende bok-ide, førsteklassingen tolker Ibsen, Skjæveland leser nyheter oppå meningsbærende  musikk, damekor drar på jentetur og almennlæreren anbefaler Muldvarp-bok. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0325-0935_6353133701.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0325-0935_6353133701.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:32</itunes:duration>
+      <pubDate>Tue, 25 Mar 2014 10:03:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>31.03.2014 Hils på Utakt-folket, ufaglært mindfulness, panpipe-kompensasjon,døde katter og kistesøm</title>
+      <description><![CDATA[Hvordan hilser man på Utakt-folket? Hva vet førsteklassingen om pseudo-vitenskap? Hvordan skal allmennlæreren angripe Utakt-boka? Hvordan kan du avsløre halvstuderte terapeuter og hva betyr egentlig kistesøm? (PS deler av radioprogrammet er utelatt fra denne podcasten pga musikkrettigheter)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0401-0928_6353194136.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0401-0928_6353194136.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:57</itunes:duration>
+      <pubDate>Tue, 01 Apr 2014 11:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>07.04.2014 Hund i vogn, Patti Boyd-limerick, lemmedasking, nakenskriving og barneraping.</title>
+      <description><![CDATA[Sterke hunde-inntrykk fra Paris. Vanskelig å hoppe etter Wirkola, Harrison og Clapton. Skriver man bedre når man er naken? Hva vet førsteklassingen om streikevåren? Hva betyr «Lemmedasker»? Hva kan riktig underlagsmusikk gjøre for nyhetene? Utakt spør og Utakt svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0408-0308_6353256655.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0408-0308_6353256655.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:59</itunes:duration>
+      <pubDate>Tue, 08 Apr 2014 17:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>21.04.2014 Skavlan-ferie, Kiss på vise- og lyrikkfestival, Tom Dooley og dings under bilen</title>
+      <description><![CDATA[Får vi se Kiss på vise-og lyrikkfestival? Bør egentlig Tom Dooley spilles av barn? Virker anti-kvalme-dingsen under bilen? Hvordan går det med nakenskrivingen av Utakt-boka? Hva er harnisk, og lønner det seg å trene med plastikkpose i hånden? Utakt spør og Utakt forsøker å gi svar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0422-0906_6353375446.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0422-0906_6353375446.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:22</itunes:duration>
+      <pubDate>Tue, 22 Apr 2014 11:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>28.04.2014 Utakt på vekta, klær etter vekt, Globoid og like statuer</title>
+      <description><![CDATA[Vi veier oss. Vi veier klær. Vi etterlyser Globoiden. Vi hyller Willie Nelson. Vi beskytter oss mot romvesener og vi synger med i heppe-koret. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0429-0910_6353435947.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0429-0910_6353435947.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:10</itunes:duration>
+      <pubDate>Tue, 29 Apr 2014 11:04:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>05.04.2014 Eldorado for mersalg, gamle bilder, Muskedunder, pistol-fornavn og Winner-tip-taco.</title>
+      <description><![CDATA[Hvorfor får du ikke kjøpt pølse på ladestasjoner? Hvorfor ser vi eldre ut enn vi er på gamle bilder? Hva vet førsteklassingen om Heimskringla? Hvordan fungerer rakett-pistolen?  Hvordan oppsto russe-ropet, og hvordan virker Winner-tip-tacoen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0506-0932_6353496564.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0506-0932_6353496564.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:19</itunes:duration>
+      <pubDate>Tue, 06 May 2014 11:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>12.05.2014 Tjukkas-tv, dyre kabler, kålrabi-kake, mohair-sterilitet og andefotpistolen.</title>
+      <description><![CDATA[Mer humør i mai
+Hvor mye kan du forlange for et gammelt fjernsyn? Hvordan smakte Kålrabi-kaken? Hvor dyr kan en kabel bli? Kan Mohair-genseren skape sterilitet? Er sikkert egentlig usikkert, og hvordan fungerer andefot-pistolen?
+Utakt spør og Utakt svarer.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0513-0929_6353557028.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0513-0929_6353557028.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:24</itunes:duration>
+      <pubDate>Tue, 13 May 2014 11:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>19.05.2014 Skjæveland stjeler andres søppel, skumfender og alternativ oppstilling av korps</title>
+      <description><![CDATA[Per Øystein Kvindesland vil revolusjonere hvordan korps går i tog, mens Skjæveland er mest opptatt av å skaffe seg bestikk-kurv i plast til mindre enn 449kr. Utakt belyser livets viktige saker mandager mellom 22 og midnatt på NRK P1.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0520-0950_6353617648.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0520-0950_6353617648.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:20</itunes:duration>
+      <pubDate>Tue, 20 May 2014 11:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>26.05.12 Cruisecontrol-moro, trillebårfuging, flueknepping og livsfarlig v-hals</title>
+      <description><![CDATA[Komikerstøtte til hattevitsen. Fugeskum i trillbårhjul. Førsteklassingen foredrar om Internett. Allmennlæreren foredrar om Pepperbox-pistolen. Vhals må brukes med forsiktighet og flueknepping er noe helt annen enn du tror.
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0527-1221_6353674695.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0527-1221_6353674695.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:12</itunes:duration>
+      <pubDate>Tue, 27 May 2014 02:05:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>02.06.2014 Mitt liv som film. Abdiseringsnytt. Winchester-museet og lande-klapping.</title>
+      <description><![CDATA[Hvilken film ville du valgt dersom ditt liv skulle være basert på filmen? Hvorfor skapte en Mammut-fossil bruduljer i USA? Hva kan førsteklassingen om primærfargene? Hvorfor har vi sluttet å klappe når flyet lander trygt? Og er det blitt moderne å abdisere? Utakt spør og Utakt svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0603-1002_6353738660.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0603-1002_6353738660.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:10</itunes:duration>
+      <pubDate>Tue, 03 Jun 2014 12:06:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>09.06.2014 Ekstra langt program. Med fluenes herremåltid, trillekoffert-kart, og Shania Twain-museum</title>
+      <description><![CDATA[Hvorfor søker fluene mot kumøkk? Hva er lyden av Utakt? Hvordan gikk det med Shania Twain-museet? Hvor bør du kjøpe hytte i utlandet? Hva vet førsteklassingen om pinsen?
+Utakt spør og Utakt svarer.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0610-0844_6353798673.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0610-0844_6353798673.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:15</itunes:duration>
+      <pubDate>Tue, 10 Jun 2014 10:06:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>16.06.2014 Sesongens siste. Førsteklassingen takker av. Rare ting å stjele, do og spademuseum.</title>
+      <description><![CDATA[Unngå blå skjorte hos Clas Ohlson. Førsteklassingen takker for følget. Hva er mest populært å stjele? Vi besøker do- og spademuseet, kikker på Spielerfrau-kort og lærer bort danske godbiter. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0617-0952_6353859563.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0617-0952_6353859563.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:08</itunes:duration>
+      <pubDate>Tue, 17 Jun 2014 11:06:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>18.08.2014 Sesongpremiere med dobbeltseng, Pizze, Vebjørn og Kalasjnikov.</title>
+      <description><![CDATA[Utakt starter høstsesongen med å gjennomgå sterke inntrykk fra ferien. Hva har vi lært og hva kan gjøres bedre? Du får splitter nye programposter og selvfølgelig gjenhør med gamle  kjenninger. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0819-0935_6354403782.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0819-0935_6354403782.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:11</itunes:duration>
+      <pubDate>Tue, 19 Aug 2014 11:08:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>25.08.2014 Kjøleskapslyder, hotellfrokost, Lavendelhagen, "spør Vebjørn 7 år" og lange øyenbryn</title>
+      <description><![CDATA[Kjøleskapslyder, hvilke er godlynte og hvilke er bekymringsverdige? Hva førte Skjæveland inn i Lavendelhagen? Kan Vebjørn(7) svare på spørsmål om sengestørrelser? Hvor lenge bør hotellfrokosten vare og hvor lange øyenbryn går det egentlig an å få?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0826-0948_6354464357.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0826-0948_6354464357.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:42</itunes:duration>
+      <pubDate>Tue, 26 Aug 2014 11:08:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>01.09.2014 Spøkelseskritikk, cola-automatkritikk, pølseovergang og taxipizza</title>
+      <description><![CDATA[Hvorfor tenker spøkelser så tradisjonelt? Hva gjør du når brusautomaten tar pengene dine? Hva vet sjuåringen om hundehold? Hvor mange fotballspillere får du for 15 kg pølser, og kan man sitte på med en pizza-taxi?  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0902-1021_6354525013.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0902-1021_6354525013.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:48</itunes:duration>
+      <pubDate>Tue, 02 Sep 2014 12:09:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>08.09.2014 Utstoppa dyr, Lønsj-krangel, verdens uheldigste, tisseforberedelser og engelske fødsler.</title>
+      <description><![CDATA[Hvem kjøper utstoppa dyr? Hvordan havnet Utakt i Lønsj-krangel? Hva vet 7-åringen om Paruresis? Hvem er verdens uheldigste? Hvorfor ble hagefesten stoppet allerede kl.1900?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0909-0924_6354585185.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0909-0924_6354585185.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:40</itunes:duration>
+      <pubDate>Tue, 09 Sep 2014 11:09:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Fiskesoving, grøt-komplott, skotske elefanter, ferskvannsverft og grisla brød</title>
+      <description><![CDATA[Er Utakt utsatt for et kompott? Vi vet ihvertfall at England kommer til å savne elefantene i Skottland og at ungdommen må kalfatre mer. Nevnte vi grisling og ferskvannsverft?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0916-1204_6354646608.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0916-1204_6354646608.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:03</itunes:duration>
+      <pubDate>Tue, 16 Sep 2014 14:09:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Nabovarsel om maling, teppe-boom, verdens mest meningsløse jobb og karrieretips til Cecilie Leganger</title>
+      <description><![CDATA[Bør husmaling nabovarsles? Er vegg-til-vegg-teppene på vei tilbake? Hva er verdens mest meningsløse jobb? Hvordan låter mobil-sekkepipe? Og hva mener allmennlæreren at Cecilie Leganger bør gjøre nå som karrieren er over? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0923-0957_6354706330.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0923-0957_6354706330.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:18</itunes:duration>
+      <pubDate>Tue, 23 Sep 2014 11:09:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>29.09.2014 Kongen av Danmark, matmoms, reality-fiasko, do-lyder og kredittkors-tipsing</title>
+      <description><![CDATA[Hva er uønskede do-lyder? Hvorfor misliker vi kredittkort-tipsing? Hvorfor er matmoms vrient på flyplass? Hva er verdens kjedeligste reality-serie og hvordan låter en mobil-didgeridoo? Utakt spør og Utakt svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0930-0201_6354761795.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-0930-0201_6354761795.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:35</itunes:duration>
+      <pubDate>Tue, 30 Sep 2014 04:09:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>06.09.2014 Alv vs gnom, vaktel på narkotika, flatt eller skrått tak og bacon-kultur</title>
+      <description><![CDATA[Hver mandag mellom 22 og midnatt får du Utakt på NRK P1. Per Øystein Kvindesland og Bjørn Olav Skjæveland har to mål: Skape godt humør og være godt selskap]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1007-0925_6354827040.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1007-0925_6354827040.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:28</itunes:duration>
+      <pubDate>Tue, 07 Oct 2014 11:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>13.10.2014 Ping-Pong, selv-støvsugende gulv og damebilder på Facebook</title>
+      <description><![CDATA[Hvor kommer egentlig Ping-Pong fra ? Hvem vil ha selv-støvsugende gulv? Menn som kommenterer damebilder og valfarting i konkurransen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1013-1155_6354880558.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1013-1155_6354880558.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:13</itunes:duration>
+      <pubDate>Tue, 14 Oct 2014 01:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Lydboka "Etter det vi har grunn til å tro..."</title>
+      <description><![CDATA[Utakt-personalet satte seg i studio og snakket i timesvis. Uten forberedelser og manus. Deretter ble alt skrevet ned og utgitt som bok. Dette er alt snakket som boken er basert på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1020-0600_6354880580.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1020-0600_6354880580.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:44:13</itunes:duration>
+      <pubDate>Mon, 20 Oct 2014 08:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>20.10.2014 Utakt live fra scenen med publikum i salen </title>
+      <description><![CDATA[Utakt feiret bokutgivelse med å sende hele programmet live fra scenen i Stavanger. Rundt 200 Utakt-tilhengere bidro til festen. En fin-fin kveld, etter det vi har grunn til å tro.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1021-1243_6354949238.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1021-1243_6354949238.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:22</itunes:duration>
+      <pubDate>Tue, 21 Oct 2014 14:10:00 +02:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>271014 Frankofile, svenske ubåter og BH, fasadeendring, lottolag og konversasjonsleksikon</title>
+      <description><![CDATA[Frankrike-elskere er frankofile, men hva kalles Spania-elskere? Hvorfor har svenskene strevd med både U-båter og BH? Hva er et lottolag og hvorfor anbafaler vi ikke menneskelig fasadeendring?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1028-1129_6355009318.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1028-1129_6355009318.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:09</itunes:duration>
+      <pubDate>Tue, 28 Oct 2014 12:10:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>03.11.2014 Baklengsmaskering, barnefotball-spørsmål, Skilpadde vs. Alpakka og Vebjørn-oppsigelse</title>
+      <description><![CDATA[Vi avslører livsfarlig baklengsmaskering i populærmusikken og ser på dumme evalueringsspørsmål i barnefotballen. Hvem lager morsomst lyd, Skilpadda eller Alpakkaen? Hvordan hadde allmennlæreren det i Holland og hvorfor har Vebjørn(7) lever inn oppsigelse?
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1104-0931_6355069036.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/nrk_utakt_2014-1104-0931_6355069036.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:06</itunes:duration>
+      <pubDate>Tue, 04 Nov 2014 10:11:00 +01:00</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+  </channel>
+</rss>
