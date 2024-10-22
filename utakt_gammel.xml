@@ -455,14 +455,5 @@ Utakt spør, og Utakt svarer.]]></description>
       <pubDate>Tue, 22 Aug 2017 12:08:00 +02:00</pubDate>
       <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
     </item>
-    <item>
-      <title>23.08.2017</title>
-      <description><![CDATA[CCC]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/utakt_2017-08-23_1101_1974.MP3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utakt/utakt_2017-08-23_1101_1974.MP3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:19</itunes:duration>
-      <pubDate>Tue, 22 Aug 2017 12:08:00 +02:00</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
-    </item>
   </channel>
 </rss>
