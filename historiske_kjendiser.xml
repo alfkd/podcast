@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/KrqbHLSCnv4AxSWMYloB9wOqg7yt4rsZP3WXavej62ng.jpg</image>
     <language>no</language>
     <item>
+      <title>Saigō Takamori – siste samurai</title>
+      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_c31bfceb13438a939127f47d59fdf2d3</link>
+      <description>Samuraihelten ble både forsvarer av og opprører mot det nye Japan.</description>
+      <image>https://gfx.nrk.no/yDUzak8n_YK0bD1NnBDBGQAK0ZGQzJWkr5JNTPzbO9Ww.jpg</image>
+      <guid>c31bfceb13438a939127f47d59fdf2d3</guid>
+      <pubDate>Wed, 26 Aug 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/e5dc07cc-9231-4299-9c07-cc9231329947_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Anne-Cath. Vestly – Norges mormor</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_bd1c8bd7ecdabcd2d18636ea9888302e</link>
       <description>Hele Norges mormor ga stemme til de små og oversette.</description>
@@ -176,15 +185,6 @@
       <guid>3e223bfeca7a507aea4e07695602c2c9</guid>
       <pubDate>Wed, 12 Nov 2025 05:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d56cd833-2c61-47ed-acd8-332c6127edb5_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Madame de Pompadour – forhatt elskerinne</title>
-      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_29cf4d2dd3b237f2705f6502a1170c75</link>
-      <description>Den alminnelige jenta dro til Versailles, ble kongens elskerinne og en av de mektigste kvinnene i Frankrikes historie.</description>
-      <image>https://gfx.nrk.no/pKyVrrluO3IQ3JH-dZpwIwX5EX-rwR7VOQGAcA0418UQ.jpg</image>
-      <guid>29cf4d2dd3b237f2705f6502a1170c75</guid>
-      <pubDate>Tue, 04 Nov 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/073536d3-4730-4965-b536-d347309965f2_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

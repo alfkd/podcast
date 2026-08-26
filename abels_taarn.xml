@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Vinduet ditt gir deg mangelsykdommer</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_15e9255ee3fdb31d92ca6b874e40d113</link>
+      <description>Det påstår i hvert fall noen forskere. Dessuten, biobatterier erstatter kjernekraftverk og HIV kan bli fullstendig utrydda</description>
+      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
+      <guid>15e9255ee3fdb31d92ca6b874e40d113</guid>
+      <pubDate>Wed, 26 Aug 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Du kan faktisk bli allergisk mot kjøtt</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_9baed48523b4913f2df3d6637ea7afe5</link>
       <description>Bra for miljøet kanskje, men ikke for deg. Dessuten, et enorm sort hull er oppdaget, og Starlink-satellitter gjør ufrivillig ekstra nytte for seg</description>
@@ -180,15 +189,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <guid>46980ed48b157dbf7e9198f5af12f4d2</guid>
       <pubDate>Fri, 12 Jun 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b7ce3efc-4871-4c92-8e3e-fc4871fc926d_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Er pavens KI-advarsel skrevet av KI?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_27e7bc778a158cb5cbe302a80d02a2ce</link>
-      <description>Tekstanalyser tyder på det. Dessuten, forskere har oppdaget intelligens hos et encellet dyr uten hjerne. Og gullsjakalen bruker folk som skjold mot ulv</description>
-      <image>https://gfx.nrk.no/0HEss_k1x_c4tFIGplhdQA-qRmj9Bqa9tkaQyxEg0Rpg.jpg</image>
-      <guid>27e7bc778a158cb5cbe302a80d02a2ce</guid>
-      <pubDate>Wed, 10 Jun 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0dde9aae-e385-4a17-9e9a-aee3856a177f_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
