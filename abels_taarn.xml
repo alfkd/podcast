@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Har du ødelagt mobilen?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_fb9ae07e5b2f9763fbea9f2b73403c89</link>
+      <description>Snart kan den reparere seg selv. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab</description>
+      <image>https://gfx.nrk.no/zYlQXPAtADQAoLIqmpadAgsP2ybP_MH45mxLSXqYQ-tw.jpg</image>
+      <guid>fb9ae07e5b2f9763fbea9f2b73403c89</guid>
+      <pubDate>Wed, 02 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Kan vinduet ditt gi deg mangelsykdommer?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_15e9255ee3fdb31d92ca6b874e40d113</link>
       <description>Det påstår i hvert fall noen forskere. Dessuten, biobatterier erstatter kjernekraftverk og HIV kan bli fullstendig utrydda</description>
@@ -179,16 +188,6 @@ Lurer du på rare ting? Send inn dine spørsmål til Abels Tårns kompetente eks
       <guid>f7a0d2f69f3ca5f4c3b5d929818f2def</guid>
       <pubDate>Mon, 15 Jun 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ff5eb043-75df-492d-9eb0-4375df592d86_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Er det pes å være svær i VM-varmen?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_46980ed48b157dbf7e9198f5af12f4d2</link>
-      <description>Når Bakrommet spør, svarer Tårnet!
-Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!</description>
-      <image>https://gfx.nrk.no/4zwt3oTZfDQYMGcic5FKAQVxxHQN4FU3-swAaO6ydyMg.jpg</image>
-      <guid>46980ed48b157dbf7e9198f5af12f4d2</guid>
-      <pubDate>Fri, 12 Jun 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b7ce3efc-4871-4c92-8e3e-fc4871fc926d_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

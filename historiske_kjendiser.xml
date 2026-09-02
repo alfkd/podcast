@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/KrqbHLSCnv4AxSWMYloB9wOqg7yt4rsZP3WXavej62ng.jpg</image>
     <language>no</language>
     <item>
+      <title>Grace Kelly – fyrstelig filmstjerne</title>
+      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_75ae4d7ee70dcc784971a107d5c1590b</link>
+      <description>Filmstjernen forlot Hollywood for å bli fyrstinne av Monaco.</description>
+      <image>https://gfx.nrk.no/vb7SKdyKjSK8B08Y2b-LrAXTiDROxHs62ndaWpPHuHPw.jpg</image>
+      <guid>75ae4d7ee70dcc784971a107d5c1590b</guid>
+      <pubDate>Wed, 02 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/00ec851e-622b-4fa5-ac85-1e622b5fa55a_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Saigō Takamori – siste samurai</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_c31bfceb13438a939127f47d59fdf2d3</link>
       <description>Samuraihelten ble både forsvarer av og opprører mot det nye Japan.</description>
@@ -176,15 +185,6 @@
       <guid>928f8571ddfb7204b03f414b98926485</guid>
       <pubDate>Wed, 19 Nov 2025 05:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/53153f85-fa20-42b1-953f-85fa2002b1cc_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Vasco da Gama – brutal sjøfarer</title>
-      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_3e223bfeca7a507aea4e07695602c2c9</link>
-      <description>Vasco da Gama åpnet sjøveien til India - med krutt, kors og kompromissløs makt.</description>
-      <image>https://gfx.nrk.no/Fw1fpVaPt7GtQ3SP8ugXEAqCB-oxfuBdJC-zithx2lzw.jpg</image>
-      <guid>3e223bfeca7a507aea4e07695602c2c9</guid>
-      <pubDate>Wed, 12 Nov 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/d56cd833-2c61-47ed-acd8-332c6127edb5_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
