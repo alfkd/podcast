@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Østers i fjorden - yea or nay?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_290638a074a66f9ceb08dfdb84cadcc6</link>
+      <description>Vi setter opp Tårnet på Oslofjordmuseet, og tar med oss tre eksperter på en frisk tur til havs.
+Lurer du på ting? Spør Abels Tårn!</description>
+      <image>https://gfx.nrk.no/r80XluIldIVCLHTEU9VHSATTYe0wBzB-qMf4CPbo-VEg.jpg</image>
+      <guid>290638a074a66f9ceb08dfdb84cadcc6</guid>
+      <pubDate>Fri, 04 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>En mobil som reparerer seg selv</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_fb9ae07e5b2f9763fbea9f2b73403c89</link>
       <description>Er det NASA drømmer om. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab</description>
@@ -179,15 +189,6 @@ Lurer du på rare ting? Send inn dine spørsmål til Abels Tårns kompetente eks
       <guid>4e979ba6294ff34c649481a302208fa4</guid>
       <pubDate>Wed, 17 Jun 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e49c4d4b-933e-40b3-9c4d-4b933ea0b35d_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Døde galakser strømmer gjennom deg</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_f7a0d2f69f3ca5f4c3b5d929818f2def</link>
-      <description>Nanonettinger kan vris til superledere, og proteiner produseres rare steder i hjernen. Alt i følge årets vinnere av Kavliprisene</description>
-      <image>https://gfx.nrk.no/zYlQXPAtADQAoLIqmpadAgsP2ybP_MH45mxLSXqYQ-tw.jpg</image>
-      <guid>f7a0d2f69f3ca5f4c3b5d929818f2def</guid>
-      <pubDate>Mon, 15 Jun 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ff5eb043-75df-492d-9eb0-4375df592d86_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
