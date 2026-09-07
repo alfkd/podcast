@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Enkelt triks skjerper konsentrasjonen</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_6e6167a02e58e4dd5930093ce0bc73d1</link>
+      <description>Forskere har nemlig studert folks lesevaner. Dessuten ropes det varsko om sopp vi er avhengig av. Og månen vår må også passes på</description>
+      <image>https://gfx.nrk.no/0HEss_k1x_c4tFIGplhdQA-qRmj9Bqa9tkaQyxEg0Rpg.jpg</image>
+      <guid>6e6167a02e58e4dd5930093ce0bc73d1</guid>
+      <pubDate>Mon, 07 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4047cef7-201a-49a4-87ce-f7201ab9a425_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Østers i fjorden - yea or nay?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_290638a074a66f9ceb08dfdb84cadcc6</link>
       <description>Vi setter opp Tårnet på Oslofjordmuseet, og tar med oss tre eksperter på en frisk tur til havs.
@@ -180,15 +189,6 @@ Lurer du på rare ting? Send inn dine spørsmål til Abels Tårns kompetente eks
       <guid>a44abdc84b849203dde67f3e3b83786d</guid>
       <pubDate>Fri, 19 Jun 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d5a8113d-6b3f-475a-a811-3d6b3fb75a73_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Frister brød med gjær fra død mann?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_4e979ba6294ff34c649481a302208fa4</link>
-      <description>Forskere har testet oppskrift. Dessuten, slik får du barna til å spise grønnsaker. Og lyden "The hum" har en ny mulig forklaring</description>
-      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
-      <guid>4e979ba6294ff34c649481a302208fa4</guid>
-      <pubDate>Wed, 17 Jun 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e49c4d4b-933e-40b3-9c4d-4b933ea0b35d_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
