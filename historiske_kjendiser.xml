@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/KrqbHLSCnv4AxSWMYloB9wOqg7yt4rsZP3WXavej62ng.jpg</image>
     <language>no</language>
     <item>
+      <title>Neil Armstrong – fryktløs astronaut</title>
+      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_299a332289ac6092017808a3d91e60bb</link>
+      <description>Astronauten tok menneskehetens første steg på månen.</description>
+      <image>https://gfx.nrk.no/GOEaad2mPWt3RkUrkWVHuAV4rTi7bQYJHRNH2d-CygDQ.jpg</image>
+      <guid>299a332289ac6092017808a3d91e60bb</guid>
+      <pubDate>Wed, 09 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/264c28cf-1339-4009-8c28-cf1339d0094d_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Grace Kelly – fyrstelig filmstjerne</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_75ae4d7ee70dcc784971a107d5c1590b</link>
       <description>Filmstjernen forlot Hollywood for å bli fyrstinne av Monaco.</description>
@@ -176,15 +185,6 @@
       <guid>969e950b09937674ee52e717fe76a019</guid>
       <pubDate>Wed, 26 Nov 2025 05:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/6e067ab4-b9ac-4b46-867a-b4b9ac6b46e1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Edvard Munch – mørkets maler</title>
-      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_928f8571ddfb7204b03f414b98926485</link>
-      <description>Hans kunstverk av sykdom, død og angst ble møtt med latter og avsky, men den plagede maleren nektet å gi seg.</description>
-      <image>https://gfx.nrk.no/5GHHPczAiskFSuB1vKHY7QPyHWpFyzWjshWYLo9mP6DA.jpg</image>
-      <guid>928f8571ddfb7204b03f414b98926485</guid>
-      <pubDate>Wed, 19 Nov 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/53153f85-fa20-42b1-953f-85fa2002b1cc_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
