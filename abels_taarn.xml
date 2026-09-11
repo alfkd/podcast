@@ -1,11 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Abels tårn</title>
+    <title>
+    </title>
     <link>https://radio.nrk.no/podkast/abels_taarn</link>
-    <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
-    <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
+    <description>
+    </description>
+    <image>.jpg</image>
     <language>no</language>
+    <item>
+      <title>Var T-rex tjukk i hodehuden?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_3f52c064d302c4e8793b5b94211322d5</link>
+      <description>Vi vet i hvert fall at det var ikke var spesielt mye på innsida.
+Lurer du på merkelige saker? Få svar fra ekspertene i Abels Tårn!</description>
+      <image>https://gfx.nrk.no/WPHbLwb3lPOYkmWWCUXJoQ8yn6qjrH_NlhlBp-b6MHQA.jpg</image>
+      <guid>3f52c064d302c4e8793b5b94211322d5</guid>
+      <pubDate>Fri, 11 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/06098e92-1933-4a6b-898e-9219331a6b23_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
     <item>
       <title>Enkelt triks skjerper konsentrasjonen</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_6e6167a02e58e4dd5930093ce0bc73d1</link>
@@ -179,16 +191,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <guid>0447358d066229ee45d93ff65e409ec5</guid>
       <pubDate>Mon, 22 Jun 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0ef9e28f-9fdf-4520-b9e2-8f9fdfe5202b_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Prater spekkhoggere?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_a44abdc84b849203dde67f3e3b83786d</link>
-      <description>Kunne vært kult å finne ut hva de prater OM!
-Lurer du på rare ting? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!</description>
-      <image>https://gfx.nrk.no/O8yEMFfX_FTX2gzwBlbACQI2WJdqOOao_xxXJdK3nHlA.jpg</image>
-      <guid>a44abdc84b849203dde67f3e3b83786d</guid>
-      <pubDate>Fri, 19 Jun 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d5a8113d-6b3f-475a-a811-3d6b3fb75a73_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
