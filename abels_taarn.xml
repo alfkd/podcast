@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Det finnes en riktig tissevinkel</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_c9841de15b4f816faf881404ad465646</link>
+      <description>Pissoarteknikk, kakerlakkmelk, og hva truser kan si om jordkvalitet. Ig-Nobel hedrer igjen forskning som først får deg til å le og så tenke</description>
+      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
+      <guid>c9841de15b4f816faf881404ad465646</guid>
+      <pubDate>Sat, 12 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Var T-rex tjukk i hodehuden?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_3f52c064d302c4e8793b5b94211322d5</link>
       <description>Vi vet i hvert fall at det var ikke var spesielt mye på innsida.
@@ -180,15 +189,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <guid>94066e8c6bf53f72cb10e4931caaa363</guid>
       <pubDate>Wed, 24 Jun 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1645b7a7-0444-4df5-85b7-a704442df5af_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Svinger du helst til høyre eller venstre?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_0447358d066229ee45d93ff65e409ec5</link>
-      <description>Forskere har snublet over et mystisk instinkt i oss alle. Formelen for beste restaurant er oppdaget. Og solbriller kan byttes ut med øyedråper.</description>
-      <image>https://gfx.nrk.no/0HEss_k1x_c4tFIGplhdQA-qRmj9Bqa9tkaQyxEg0Rpg.jpg</image>
-      <guid>0447358d066229ee45d93ff65e409ec5</guid>
-      <pubDate>Mon, 22 Jun 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0ef9e28f-9fdf-4520-b9e2-8f9fdfe5202b_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
