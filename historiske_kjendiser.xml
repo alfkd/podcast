@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/KrqbHLSCnv4AxSWMYloB9wOqg7yt4rsZP3WXavej62ng.jpg</image>
     <language>no</language>
     <item>
+      <title>Indira Gandhi – Indias jernkvinne</title>
+      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_42738f5f7c54078206ec9013c1a2b27c</link>
+      <description>Indias første kvinnelige statsminister ble drept av sine egne livvakter.</description>
+      <image>https://gfx.nrk.no/4AENGEtSqP44DivJJHiDZAKGTKZmbhsCI7_a9UYlhhpA.jpg</image>
+      <guid>42738f5f7c54078206ec9013c1a2b27c</guid>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/cc54b620-bdb9-4fe4-94b6-20bdb95fe41e_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Neil Armstrong – fryktløs astronaut</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_299a332289ac6092017808a3d91e60bb</link>
       <description>Astronauten tok menneskehetens første steg på månen.</description>
@@ -176,15 +185,6 @@
       <guid>fec64004811ff7a667d0a7a8ce3398c2</guid>
       <pubDate>Wed, 03 Dec 2025 05:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/ab0f84f5-32d9-4af9-8f84-f532d9faf9c0_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Emmeline Pankhurst – fryktløs stemme</title>
-      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_969e950b09937674ee52e717fe76a019</link>
-      <description>Hun trosset loven for kvinners frihet. Emmeline Pankhurst ledet suffragettene med ukuelig kraft og ofret alt for kvinners stemmerett.</description>
-      <image>https://gfx.nrk.no/uIkQypZk8acrnkmmR9DEcAIe1Icw6Q0lN6QogZ4f0BqQ.jpg</image>
-      <guid>969e950b09937674ee52e717fe76a019</guid>
-      <pubDate>Wed, 26 Nov 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/6e067ab4-b9ac-4b46-867a-b4b9ac6b46e1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
