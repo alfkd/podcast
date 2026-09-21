@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Se krystallklart i stupmørke</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_91a977486da6e127c4b980de901fdaaf</link>
+      <description>Forskere har utviklet nye superbriller. Dessuten, skadde hjerner kan reparere seg selv. Og gode opplevelser gir også bra søvn</description>
+      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
+      <guid>91a977486da6e127c4b980de901fdaaf</guid>
+      <pubDate>Mon, 21 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/da7de30b-a076-4b57-bde3-0ba076ab57c2_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Hvor vakker er naturen?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_2cd63ef37235d52f0f01013a3a7806c4</link>
       <description>Om det nå er det den er da.
@@ -181,15 +190,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <guid>a4ab2024c0ea4748ba3bdb16073b9566</guid>
       <pubDate>Fri, 03 Jul 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8aaae517-9d9a-4e32-aae5-179d9a3e3266_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Hvordan finner skreien veien?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_b2ba8181bff06d2b88a04ad95340b68f</link>
-      <description>Abels tårn er på turné  - denne gangen fra Norges gamle navle: Kabelvåg.</description>
-      <image>https://gfx.nrk.no/ot207_hYzyKQ0tasdT9tdgoXzpgzw6qAoYkmhlXN6jDQ.jpg</image>
-      <guid>b2ba8181bff06d2b88a04ad95340b68f</guid>
-      <pubDate>Fri, 26 Jun 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4ac3fcf0-60e0-4f30-83fc-f060e0cf305e_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
