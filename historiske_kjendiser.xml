@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/KrqbHLSCnv4AxSWMYloB9wOqg7yt4rsZP3WXavej62ng.jpg</image>
     <language>no</language>
     <item>
+      <title>Lev Trotskij – jaget revolusjonær</title>
+      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_cccf5c48b8e71e14ca69b1c16ee6074b</link>
+      <description>Revolusjonshelten ble Josef Stalins fiende nummer én.</description>
+      <image>https://gfx.nrk.no/X3Sw3McHVU0z21CxozXAgwv4cbg5Lqirk23LvgsLS7kg.jpg</image>
+      <guid>cccf5c48b8e71e14ca69b1c16ee6074b</guid>
+      <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/46425b7a-62d7-442b-825b-7a62d7942b8e_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Indira Gandhi – Indias jernkvinne</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_42738f5f7c54078206ec9013c1a2b27c</link>
       <description>Indias første kvinnelige statsminister ble drept av sine egne livvakter.</description>
@@ -176,15 +185,6 @@
       <guid>0ef57500d002cecf8b454e3c772336a8</guid>
       <pubDate>Wed, 10 Dec 2025 05:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/34f542af-98ce-489c-b542-af98cee89cb5_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Dronning Victoria – imperialistisk hersker</title>
-      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_fec64004811ff7a667d0a7a8ce3398c2</link>
-      <description>Den britiske dronningen ble forsøkt drept åtte ganger i løpet av livet, men gjorde Storbritannia til verdens største imperium.</description>
-      <image>https://gfx.nrk.no/AkztQIpvLk2w7r2AtactfACGj3VQG_evPWoEtOJ7cZbA.jpg</image>
-      <guid>fec64004811ff7a667d0a7a8ce3398c2</guid>
-      <pubDate>Wed, 03 Dec 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/ab0f84f5-32d9-4af9-8f84-f532d9faf9c0_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
