@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Tok Einstein feil?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_19e3b09e473fe31e1999b41d3db29898</link>
+      <description>Selv genier kan stå for fall.
+Stusser du på alskens bisarre saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!</description>
+      <image>https://gfx.nrk.no/kWrcWwnjDJs8Taw4aLriEARFGOOzPZifnjtNqDe_5RYA.jpg</image>
+      <guid>19e3b09e473fe31e1999b41d3db29898</guid>
+      <pubDate>Fri, 25 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2a1c21f0-8d3f-4806-9c21-f08d3ff80633_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Et gjennombrudd i kreftforskning</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_31a8b3d580ad2ab6d571cd88d5f7d338</link>
       <description>Ny lovende kreftvaksine på veg. Dessuten, slankemedisiner overrasker forskerne. Og Antarktis har til tross for klimakrisa, fått mer is!</description>
@@ -181,15 +191,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <guid>681d893b719f97c1fd9e35de6c86cd14</guid>
       <pubDate>Fri, 17 Jul 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9a1143ad-1ca5-4ecb-9143-ad1ca52ecb06_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Bør man kjøre fortere når det blåser?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_374baeb9aaa2b27ae4ef7c9863c9edaf</link>
-      <description>Man løper jo når  det regner for å  ikke å bli våt. Abels tårn har tatt turen til Harstad, og et panel med lokale eksperter svarer. Blant annet på spørsmålet om hvordan man finner et oljefelt, og hvordan det føles når man gjør det!</description>
-      <image>https://gfx.nrk.no/KfmYfFHweaWiwsg3bo6bxQOE7drdt0emaTjYf5a0D-QQ.jpg</image>
-      <guid>374baeb9aaa2b27ae4ef7c9863c9edaf</guid>
-      <pubDate>Fri, 10 Jul 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1c9b9c2d-7db9-458c-9b9c-2d7db9958c48_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
