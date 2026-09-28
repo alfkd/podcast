@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Da KI slukte matematikken</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_0a4aa950559100dac0a17811727a40fe</link>
+      <description>Hva nå, matematiker? Er det bruk for deg lenger? Dette er historien om da OpenAi løste Navier Stokes, et av de sju milleniumsproblemene i matematikk. En hendelse som sendte sjokkbølger gjennom hele feltet, og trolig blir stående igjen som et vannskille i historien. 
+Dette er også historien om en eksistensiell trussel, og om en politisk vekkelse som hjemsøker matematikkens verden.</description>
+      <image>https://gfx.nrk.no/N2Ve2x8ECX2LWVUGtkgLbgCNQ1JM9W6B8TXPqlcES9Pg.jpg</image>
+      <guid>0a4aa950559100dac0a17811727a40fe</guid>
+      <pubDate>Mon, 28 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9ca5b009-5b28-4047-a5b0-095b28e04755_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Tok Einstein feil?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_19e3b09e473fe31e1999b41d3db29898</link>
       <description>Selv genier kan stå for fall.
@@ -182,15 +192,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <guid>0f42bf53b810ca72a34d47a410a68408</guid>
       <pubDate>Fri, 24 Jul 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1714dacf-d103-4582-94da-cfd103558293_2_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Er det grenser for kunnskap?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_681d893b719f97c1fd9e35de6c86cd14</link>
-      <description>Inga Strümke er på hjemmebane når hun er med i Abels tårn i Narvik, og svarer på om det finnes en grense for hva vi mennesker kan vite om universet og oss selv. Dessuten spør vi om alt romskrotet kan samle seg til en ny måne og om hvorfor vi enda ikke har fått roboter i hjemmet.</description>
-      <image>https://gfx.nrk.no/beCJwm1lDk8gTvBOMXed9wWY25HPX2IFhUnaEOkR9Adg.jpg</image>
-      <guid>681d893b719f97c1fd9e35de6c86cd14</guid>
-      <pubDate>Fri, 17 Jul 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9a1143ad-1ca5-4ecb-9143-ad1ca52ecb06_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
