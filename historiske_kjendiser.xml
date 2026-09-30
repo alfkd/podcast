@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/KrqbHLSCnv4AxSWMYloB9wOqg7yt4rsZP3WXavej62ng.jpg</image>
     <language>no</language>
     <item>
+      <title>Edvard Grieg – Norges toneskaper</title>
+      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_d43e1a53a2cac8b2cf8dbefdb531c322</link>
+      <description>Komponisten skapte «lyden av Norge».</description>
+      <image>https://gfx.nrk.no/jeYJo5ihKukl79mGMf3KSw2i1Fat7pd5WpHIqvYWoShw.jpg</image>
+      <guid>d43e1a53a2cac8b2cf8dbefdb531c322</guid>
+      <pubDate>Wed, 30 Sep 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/c168edfa-4150-4272-a8ed-fa41508272a3_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Lev Trotskij – jaget revolusjonær</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_cccf5c48b8e71e14ca69b1c16ee6074b</link>
       <description>Revolusjonshelten ble Josef Stalins fiende nummer én.</description>
@@ -176,15 +185,6 @@
       <guid>b6f236d10c15ff9e393e44b55698ef8b</guid>
       <pubDate>Wed, 20 May 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/6f028a4f-7161-448f-828a-4f7161548f0d_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Thor Heyerdahl – havets opprører</title>
-      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_0ef57500d002cecf8b454e3c772336a8</link>
-      <description>Trosset vitenskapen og krysset Stillehavet på en flåte av balsatre – og beviste at mennesker kunne krysse hav allerede i oldtiden.</description>
-      <image>https://gfx.nrk.no/E_uCInbpaoojfZXCePyvfgLXxG8krLgM7hVJpf6eolPw.jpg</image>
-      <guid>0ef57500d002cecf8b454e3c772336a8</guid>
-      <pubDate>Wed, 10 Dec 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/34f542af-98ce-489c-b542-af98cee89cb5_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
