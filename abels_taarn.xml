@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Hva er inni et datasenter?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_7c42d4c6833c46905f45c5a73d7a4c24</link>
+      <description>Håper det også finnes rom for folk der.
+Lurer du på de merkeligste saker og ting? Få svar fra Abels Tårns allvitende ekspertise!</description>
+      <image>https://gfx.nrk.no/MpkNYeYc9W3vFq6LAZUUXAX46iBQtMrSZAu1TvVcckqw.jpg</image>
+      <guid>7c42d4c6833c46905f45c5a73d7a4c24</guid>
+      <pubDate>Fri, 02 Oct 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a8269b66-0e44-490d-a69b-660e44390d40_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Da OpenAI kuppa matematikken</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_0a4aa950559100dac0a17811727a40fe</link>
       <description>Hva nå, matematiker? Er det bruk for deg lenger? Dette er historien om da OpenAi løste Navier Stokes, et av de sju milleniumsproblemene i matematikk. En hendelse som sendte sjokkbølger gjennom hele feltet, og trolig blir stående igjen som et vannskille i historien. 
@@ -183,15 +193,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <guid>053e441d1aa8d0ac7d182b5caa415f30</guid>
       <pubDate>Fri, 31 Jul 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3ced9c23-71c7-4acd-ad9c-2371c7dacdce_2_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Jubileum! - Det første panelet</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_0f42bf53b810ca72a34d47a410a68408</link>
-      <description>Hvordan virker barberkrem? Med dette spørsmålet startet historien til Abels tårn for 15 år siden. Bli med på jubileumsfeiringa med en gjenforening av det aller første panelet.</description>
-      <image>https://gfx.nrk.no/J_LJqOvsCN6uYRjbJC7bdQ3Rg2U6lP3BbSeg9GcFcaDw.jpg</image>
-      <guid>0f42bf53b810ca72a34d47a410a68408</guid>
-      <pubDate>Fri, 24 Jul 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1714dacf-d103-4582-94da-cfd103558293_2_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
