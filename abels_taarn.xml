@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Smarttelefon fører til færre fødsler</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_13fb0eae7963dcb26107db29c0f809a3</link>
+      <description>Forskere ser en sammenheng. Dessuten, KI må hallusinere mye mer, og en ny katteart er oppdaget</description>
+      <image>https://gfx.nrk.no/0HEss_k1x_c4tFIGplhdQA-qRmj9Bqa9tkaQyxEg0Rpg.jpg</image>
+      <guid>13fb0eae7963dcb26107db29c0f809a3</guid>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Hva er inni et datasenter?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_7c42d4c6833c46905f45c5a73d7a4c24</link>
       <description>Håper det også finnes rom for folk der.
@@ -184,15 +193,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <guid>7b8d7fb455d3c3ac1caacfd0f6507640</guid>
       <pubDate>Fri, 07 Aug 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a77d40a1-fd05-4870-bd40-a1fd0598709b_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Jubileum! - De unges panel</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_053e441d1aa8d0ac7d182b5caa415f30</link>
-      <description>Tårnets 15-årsjubileum fortsetter med det aller ferskeste panelet. En radio-aktiv seanse der vi blant annet stiller det store spørsmålet: Vil KI noensinne kunne forstå kvinnen?</description>
-      <image>https://gfx.nrk.no/azHU4OrHIxZRrLrNV4ZRtA34jNzueMC3VWA_puTDkgcA.jpg</image>
-      <guid>053e441d1aa8d0ac7d182b5caa415f30</guid>
-      <pubDate>Fri, 31 Jul 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3ced9c23-71c7-4acd-ad9c-2371c7dacdce_2_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
