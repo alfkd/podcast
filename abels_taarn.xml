@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Er gen Z dummere enn sine foreldre?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_45427d183ad66d7cad47bc9143336fc5</link>
+      <description>Eller er testene feil? Dessuten, genetiske bomber er rundt deg. Og nytt romteleskop brukes av alle</description>
+      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
+      <guid>45427d183ad66d7cad47bc9143336fc5</guid>
+      <pubDate>Wed, 07 Oct 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/641212df-eff4-463f-9212-dfeff4d63f47_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Smarttelefon fører til færre fødsler</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_13fb0eae7963dcb26107db29c0f809a3</link>
       <description>Forskere ser en sammenheng. Dessuten, KI må hallusinere mye mer, og en ny katteart er oppdaget</description>
@@ -184,15 +193,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <guid>295b2e3e5f0f19718223a4125132af09</guid>
       <pubDate>Fri, 07 Aug 2026 04:01:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c5c3e976-8c65-4426-83e9-768c65142664_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Jubileum! - Folkets drømmepanel</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_7b8d7fb455d3c3ac1caacfd0f6507640</link>
-      <description>Er Inga Strümke maskin eller menneske? Og hvordan kan vi vite det? Dette er et av spørsmålene folkets drømmepanel fikk bryne seg på under Abels tårns 15-årsjubileum. Og panelet - det var stemt fram av våre lyttere.</description>
-      <image>https://gfx.nrk.no/r05bLqXlkTcInIUfRXtxIwTNcGxBEuNWt9BpcJbesNxw.jpg</image>
-      <guid>7b8d7fb455d3c3ac1caacfd0f6507640</guid>
-      <pubDate>Fri, 07 Aug 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a77d40a1-fd05-4870-bd40-a1fd0598709b_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
