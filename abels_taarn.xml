@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Hvordan lader du mobilen perfekt?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_350c712ef5e518a80f4fde0700d71038</link>
+      <description>Er du lydig og stopper på 80%, eller er du en rebell som lader til 100%? Det kommer kanskje an på om du FØLER deg stor eller liten? Men hva ER du?</description>
+      <image>https://gfx.nrk.no/y0KUgf83pF6mw3fDd2ObrQUf4HiJJlwp5pLhAW9hoDdA.jpg</image>
+      <guid>350c712ef5e518a80f4fde0700d71038</guid>
+      <pubDate>Fri, 09 Oct 2026 09:30:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/59575a02-8559-4b80-975a-0285598b8073_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Er gen Z dummere enn sine foreldre?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_45427d183ad66d7cad47bc9143336fc5</link>
       <description>Eller er testene feil? Dessuten, genetiske bomber er rundt deg. Og nytt romteleskop brukes av alle</description>
@@ -183,16 +192,6 @@ Stusser du på sære, rare saker? Send inn dine spørsmål til Abels Tårns komp
       <guid>e5e362da235fd28aa3b7787a97ee4fb7</guid>
       <pubDate>Mon, 17 Aug 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ff7caeeb-9a40-4fa4-bcae-eb9a408fa4df_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Antarktis i sentrum!</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_5e59ea6a8859c8943193c9afd276cb4d</link>
-      <description>I dagens Tårn drar vi helt ned til Antarktis for å kjenne på klodens mest ekstreme livsbetingelser.
-Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!</description>
-      <image>https://gfx.nrk.no/QCXcwUMHbs1N7VjcmNC1QQ2AHJAOqqBCw2R0hRkPnjPQ.jpg</image>
-      <guid>5e59ea6a8859c8943193c9afd276cb4d</guid>
-      <pubDate>Fri, 14 Aug 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d296eb66-805e-44bb-96eb-66805e44bb6f_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
