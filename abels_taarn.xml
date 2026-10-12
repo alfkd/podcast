@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Du får bedre helse av å lese</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_00fcc056be7aa0defcca2854f291c27f</link>
+      <description>Forskere ser at hjernen fysisk styrkes. Dessuten, menneskeceller opereres inn i mus. Og KI har tråkket over en grense</description>
+      <image>https://gfx.nrk.no/0HEss_k1x_c4tFIGplhdQA-qRmj9Bqa9tkaQyxEg0Rpg.jpg</image>
+      <guid>00fcc056be7aa0defcca2854f291c27f</guid>
+      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b5474e37-ce04-4e64-874e-37ce041e643c_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Hvordan lader du mobilen perfekt?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_350c712ef5e518a80f4fde0700d71038</link>
       <description>Er du lydig og stopper på 80%, eller er du en rebell som lader til 100%? Det kommer kanskje an på om du FØLER deg stor eller liten? Men hva ER du?</description>
@@ -183,15 +192,6 @@ Stusser du på sære, rare saker? Send inn dine spørsmål til Abels Tårns komp
       <guid>895743111111dfabfb23d2ab823a65d7</guid>
       <pubDate>Wed, 19 Aug 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4e678a90-86e3-4311-a78a-9086e34311f2_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Hjernen lurer deg når du bråvekkes</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_e5e362da235fd28aa3b7787a97ee4fb7</link>
-      <description>Og det kan være trøblete. Dessuten, speil i verdensrommet vil snart gi deg sollys hele døgnet, mens KI er avslørt som en dårlig boligkjøper</description>
-      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
-      <guid>e5e362da235fd28aa3b7787a97ee4fb7</guid>
-      <pubDate>Mon, 17 Aug 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ff7caeeb-9a40-4fa4-bcae-eb9a408fa4df_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
