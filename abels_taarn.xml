@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Har maneter det gøy?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_59357ce508d84a73d497fad2dafb6e75</link>
+      <description>Skulle tro humor krever ryggrad.
+Går du omkring og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende eksperter!</description>
+      <image>https://gfx.nrk.no/FxEc5szlNEt4vitdYIhsRQHQNkAFbeQjlIHiBiiidBAA.jpg</image>
+      <guid>59357ce508d84a73d497fad2dafb6e75</guid>
+      <pubDate>Fri, 16 Oct 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4115f770-e95c-45d4-95f7-70e95c55d42b_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Du får bedre helse av å lese</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_00fcc056be7aa0defcca2854f291c27f</link>
       <description>Forskere ser at hjernen fysisk styrkes. Dessuten, menneskeceller opereres inn i mus. Og KI har tråkket over en grense</description>
@@ -183,15 +193,6 @@ Stusser du på sære, rare saker? Send inn dine spørsmål til Abels Tårns komp
       <guid>7762467d18eb5d971f458d15a98ad8ae</guid>
       <pubDate>Fri, 21 Aug 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a6fe1ebb-992d-427b-be1e-bb992d727bda_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Mann fikk meteoritt i senga</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_895743111111dfabfb23d2ab823a65d7</link>
-      <description>Spesielt, men rarere var at den inneholdt ingredienser til liv. Dessuten, forskere vet nå hvordan du stokker kort best og hvordan vann former verden</description>
-      <image>https://gfx.nrk.no/zYlQXPAtADQAoLIqmpadAgsP2ybP_MH45mxLSXqYQ-tw.jpg</image>
-      <guid>895743111111dfabfb23d2ab823a65d7</guid>
-      <pubDate>Wed, 19 Aug 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4e678a90-86e3-4311-a78a-9086e34311f2_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
