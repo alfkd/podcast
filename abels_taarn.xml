@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Kjefter du på KI'en din?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_990989d79f5a142fc6a72b882b965ac9</link>
+      <description>Nå blir du utestengt hvis du er for slem. Dessuten, Jorda snurrer fortere. India har testet mobilforbud. Og verdens mest bråkete fugl er kåra</description>
+      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
+      <guid>990989d79f5a142fc6a72b882b965ac9</guid>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e5eaa410-cb54-4c8c-aaa4-10cb543c8c99_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Har maneter det gøy?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_59357ce508d84a73d497fad2dafb6e75</link>
       <description>Skulle tro humor krever ryggrad.
@@ -183,16 +192,6 @@ Lurer du på ting? Spør Abels Tårn!</description>
       <guid>9baed48523b4913f2df3d6637ea7afe5</guid>
       <pubDate>Mon, 24 Aug 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7b145473-e5e4-48b9-9454-73e5e4f8b94c_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Hvor livsfarlige er trær?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_7762467d18eb5d971f458d15a98ad8ae</link>
-      <description>Vi kan alle bli parkert i parken.
-Stusser du på sære, rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!</description>
-      <image>https://gfx.nrk.no/NWdl6bE6DUrwCtMKFr7MmgmlABlo2HCIQBF6K1m8TNng.jpg</image>
-      <guid>7762467d18eb5d971f458d15a98ad8ae</guid>
-      <pubDate>Fri, 21 Aug 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a6fe1ebb-992d-427b-be1e-bb992d727bda_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
