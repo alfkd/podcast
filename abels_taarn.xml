@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Vasker du hjemmet ditt feil?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_853a9cbc8d33a917d8f3892eb15a8f7d</link>
+      <description>Det lukter friskt men er egentlig helsefarlig. Dessuten, atomkjerneuret er snart her, og minilunger kan brukes i neste pandemi</description>
+      <image>https://gfx.nrk.no/zYlQXPAtADQAoLIqmpadAgsP2ybP_MH45mxLSXqYQ-tw.jpg</image>
+      <guid>853a9cbc8d33a917d8f3892eb15a8f7d</guid>
+      <pubDate>Wed, 21 Oct 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1a4fb855-4dec-4b1f-8fb8-554dec5b1f10_1_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Kjefter du på KI'en din?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_990989d79f5a142fc6a72b882b965ac9</link>
       <description>Nå blir du utestengt hvis du er for slem. Dessuten, Jorda snurrer fortere. India har testet mobilforbud. Og verdens mest bråkete fugl er kåra</description>
@@ -183,15 +192,6 @@ Lurer du på ting? Spør Abels Tårn!</description>
       <guid>15e9255ee3fdb31d92ca6b874e40d113</guid>
       <pubDate>Wed, 26 Aug 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Du kan faktisk bli allergisk mot kjøtt</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_9baed48523b4913f2df3d6637ea7afe5</link>
-      <description>Bra for miljøet kanskje, men ikke for deg. Dessuten, et enorm sort hull er oppdaget, og Starlink-satellitter gjør ufrivillig ekstra nytte for seg</description>
-      <image>https://gfx.nrk.no/0HEss_k1x_c4tFIGplhdQA-qRmj9Bqa9tkaQyxEg0Rpg.jpg</image>
-      <guid>9baed48523b4913f2df3d6637ea7afe5</guid>
-      <pubDate>Mon, 24 Aug 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7b145473-e5e4-48b9-9454-73e5e4f8b94c_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
