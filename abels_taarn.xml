@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Hvor kjipe virus kan KI lage?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_ad971f73d84e99b0089bdb6ca5520a06</link>
+      <description>Ønsket om å ødelegge kan være et tegn på intelligens.
+Går du rundt og lurer på merkelige saker? Få svar fra Abels Tårns eksperter!</description>
+      <image>https://gfx.nrk.no/e0eYtU3Q2p3_A72oVKs_GAnIu8GaI9a1r9F7o93jqaXw.jpg</image>
+      <guid>ad971f73d84e99b0089bdb6ca5520a06</guid>
+      <pubDate>Fri, 23 Oct 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f20f9cec-f0d8-4a7e-9e9c-a33e209acdd2_31845ad1-3286-4ec0-8213-58921bc9b0a6_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Vasker du hjemmet ditt feil?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_853a9cbc8d33a917d8f3892eb15a8f7d</link>
       <description>Det lukter friskt men er egentlig helsefarlig. Dessuten, atomkjerneuret er snart her, og minilunger kan brukes i neste pandemi</description>
@@ -183,15 +193,6 @@ Lurer du på ting? Spør Abels Tårn!</description>
       <guid>fb9ae07e5b2f9763fbea9f2b73403c89</guid>
       <pubDate>Wed, 02 Sep 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Vinduet ditt gjør deg syk</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_15e9255ee3fdb31d92ca6b874e40d113</link>
-      <description>Det påstår i hvert fall noen forskere. Dessuten, biobatterier erstatter kjernekraftverk og HIV kan bli fullstendig utrydda</description>
-      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
-      <guid>15e9255ee3fdb31d92ca6b874e40d113</guid>
-      <pubDate>Wed, 26 Aug 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
