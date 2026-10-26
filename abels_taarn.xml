@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Gen Z som gamle</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_1220de400e8b0df7c89c9d48dcc85c04</link>
+      <description>Stor studie bekymrer forskere. Men transplanterte hjerter overrasker positivt. Og vi vet nå hvorfor små hunder lever så lenge
+ </description>
+      <image>https://gfx.nrk.no/0HEss_k1x_c4tFIGplhdQA-qRmj9Bqa9tkaQyxEg0Rpg.jpg</image>
+      <guid>1220de400e8b0df7c89c9d48dcc85c04</guid>
+      <pubDate>Mon, 26 Oct 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/346c8706-573c-4c3c-8c2f-f231cb6d69ef_b4677b60-bdc2-4c7a-a7d4-9999aacb0800_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Hvor kjipe virus kan KI lage?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_ad971f73d84e99b0089bdb6ca5520a06</link>
       <description>Ønsket om å ødelegge kan være et tegn på intelligens.
@@ -184,15 +194,6 @@ Lurer du på ting? Spør Abels Tårn!</description>
       <guid>290638a074a66f9ceb08dfdb84cadcc6</guid>
       <pubDate>Fri, 04 Sep 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>En mobil som reparerer seg selv</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_fb9ae07e5b2f9763fbea9f2b73403c89</link>
-      <description>Er det NASA drømmer om. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab</description>
-      <image>https://gfx.nrk.no/zYlQXPAtADQAoLIqmpadAgsP2ybP_MH45mxLSXqYQ-tw.jpg</image>
-      <guid>fb9ae07e5b2f9763fbea9f2b73403c89</guid>
-      <pubDate>Wed, 02 Sep 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
