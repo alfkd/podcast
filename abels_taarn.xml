@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Døden spesial</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_5346b5831859d077d5bde84372ad9ceb</link>
+      <description>Hva skjer egentlig når vi dør?
+Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertpanel!</description>
+      <image>https://gfx.nrk.no/lwnNAaCr4GnxyUWm9iqb2wrwTfaOczlCVElCnaM0i5Zw.jpg</image>
+      <guid>5346b5831859d077d5bde84372ad9ceb</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8ae40133-a647-48f3-9831-ce0e73afa645_8711e0ea-bfa4-4a2e-ac98-20973c8902c6_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Finnes egentlig tyngdekraften?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_c99b82abfddb379d291aa8bce462f92d</link>
       <description>Forskere støtter heller Einsteins teori. Dessuten, leggen din reparerer hjernen. Og rar forskjell funnet mellom mennesker og aper
@@ -185,15 +195,6 @@ Lurer du på merkelige saker? Få svar fra ekspertene i Abels Tårn!</descriptio
       <guid>3f52c064d302c4e8793b5b94211322d5</guid>
       <pubDate>Fri, 11 Sep 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/06098e92-1933-4a6b-898e-9219331a6b23_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Enkelt triks skjerper konsentrasjonen</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_6e6167a02e58e4dd5930093ce0bc73d1</link>
-      <description>Forskere har nemlig studert folks lesevaner. Dessuten ropes det varsko om sopp vi er avhengig av. Og månen vår må også passes på</description>
-      <image>https://gfx.nrk.no/0HEss_k1x_c4tFIGplhdQA-qRmj9Bqa9tkaQyxEg0Rpg.jpg</image>
-      <guid>6e6167a02e58e4dd5930093ce0bc73d1</guid>
-      <pubDate>Mon, 07 Sep 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4047cef7-201a-49a4-87ce-f7201ab9a425_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
