@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Vampyrgrav funnet i Polen</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_9f86f41b273a0d889d9f72bd77f9d94d</link>
+      <description>Død kvinne stoppes fra å gå igjen. Dessuten, liv under polarisen overrasker. Og har du egentlig kontroll på insulaen din?  </description>
+      <image>https://gfx.nrk.no/zYlQXPAtADQAoLIqmpadAgsP2ybP_MH45mxLSXqYQ-tw.jpg</image>
+      <guid>9f86f41b273a0d889d9f72bd77f9d94d</guid>
+      <pubDate>Fri, 30 Oct 2026 21:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/09d157df-3c80-4d3f-b2a7-0dc450673338_b42e8854-3450-4ada-b782-88ccfe2f4197_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Døden spesial</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_5346b5831859d077d5bde84372ad9ceb</link>
       <description>Hva skjer egentlig når vi dør?
@@ -185,16 +194,6 @@ Vi setter opp Tårnet på Galleri F15 på Jeløya for å finne ut hvordan vitens
       <guid>c9841de15b4f816faf881404ad465646</guid>
       <pubDate>Sat, 12 Sep 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Var T-rex tjukk i hodehuden?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_3f52c064d302c4e8793b5b94211322d5</link>
-      <description>Vi vet i hvert fall at det var ikke var spesielt mye på innsida.
-Lurer du på merkelige saker? Få svar fra ekspertene i Abels Tårn!</description>
-      <image>https://gfx.nrk.no/WPHbLwb3lPOYkmWWCUXJoQ8yn6qjrH_NlhlBp-b6MHQA.jpg</image>
-      <guid>3f52c064d302c4e8793b5b94211322d5</guid>
-      <pubDate>Fri, 11 Sep 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/06098e92-1933-4a6b-898e-9219331a6b23_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
