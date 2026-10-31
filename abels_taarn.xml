@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Ikke spis kompisen din!</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_9528ea773ff2487f8ab9e4430078cbba</link>
+      <description>Kannibalisme er en dårlig idé, har forskere funnet ut. Dessuten, DNA'et ditt er fullt av feil, og glasstriks er endelig avslørt</description>
+      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
+      <guid>9528ea773ff2487f8ab9e4430078cbba</guid>
+      <pubDate>Sat, 31 Oct 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e6514a40-be92-46af-8648-9feac7afdaa6_b5fd9c0b-6bdc-4084-8299-f20670480060_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Vampyrgrav funnet i Polen</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_9f86f41b273a0d889d9f72bd77f9d94d</link>
       <description>Død kvinne stoppes fra å gå igjen. Dessuten, liv under polarisen overrasker. Og har du egentlig kontroll på insulaen din?  </description>
@@ -185,15 +194,6 @@ Vi setter opp Tårnet på Galleri F15 på Jeløya for å finne ut hvordan vitens
       <guid>2cd63ef37235d52f0f01013a3a7806c4</guid>
       <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/684cc404-fcd9-4208-8cc4-04fcd9020877_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Det finnes en riktig tissevinkel</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_c9841de15b4f816faf881404ad465646</link>
-      <description>Pissoarteknikk, kakerlakkmelk, og hva truser kan si om jordkvalitet. Ig-Nobel hedrer igjen forskning som først får deg til å le og så tenke</description>
-      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
-      <guid>c9841de15b4f816faf881404ad465646</guid>
-      <pubDate>Sat, 12 Sep 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
