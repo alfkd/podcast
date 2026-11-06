@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Kan straffespark drepe?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_c6984f12b3c36cf04ba258d9922ac562</link>
+      <description>Det vil i så fall gi uttrykket "dødball" en helt ny betydning.</description>
+      <image>https://gfx.nrk.no/8-NOPotXcR8AgQ14crjr6wOhvIeq0-NNsK1wTZzVa00w.jpg</image>
+      <guid>c6984f12b3c36cf04ba258d9922ac562</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/15830a5b-73d1-416c-a9c8-153f4fd5e3fa_59e8d176-8019-4da2-abb6-af6354733e8c_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ikke spis kompisen din!</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_9528ea773ff2487f8ab9e4430078cbba</link>
       <description>Kannibalisme er en dårlig idé, har forskere funnet ut. Dessuten, DNA'et ditt er fullt av feil, og glasstriks er endelig avslørt</description>
@@ -184,16 +193,6 @@ Stusser du på alskens bisarre saker? Send inn dine spørsmål til Abels Tårns 
       <guid>91a977486da6e127c4b980de901fdaaf</guid>
       <pubDate>Mon, 21 Sep 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/da7de30b-a076-4b57-bde3-0ba076ab57c2_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Hvor vakker er naturen?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_2cd63ef37235d52f0f01013a3a7806c4</link>
-      <description>Om det nå er det den er da.
-Vi setter opp Tårnet på Galleri F15 på Jeløya for å finne ut hvordan vitenskap og kunst henger sammen!</description>
-      <image>https://gfx.nrk.no/wFdZL01TZTyJ4Yq6ojCGhw2wF3zgxK0RIve0121OxQMg.jpg</image>
-      <guid>2cd63ef37235d52f0f01013a3a7806c4</guid>
-      <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/684cc404-fcd9-4208-8cc4-04fcd9020877_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
