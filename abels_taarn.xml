@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Demokrati er en umulighet</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_e4215245cb1a31af145f9125dc97ce2a</link>
+      <description>Formelen går ikke opp. Dessuten, Hitlers DNA er analysert, og Van Goghs "Stjernenatt"
+</description>
+      <image>https://gfx.nrk.no/0HEss_k1x_c4tFIGplhdQA-qRmj9Bqa9tkaQyxEg0Rpg.jpg</image>
+      <guid>e4215245cb1a31af145f9125dc97ce2a</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0258e404-5a58-424c-861d-fc0cbf6f0905_f9cc13c5-cce9-4f42-8577-ae7106c15fc3_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Kan straffespark drepe?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_c6984f12b3c36cf04ba258d9922ac562</link>
       <description>Det vil i så fall gi uttrykket "dødball" en helt ny betydning.</description>
@@ -184,15 +194,6 @@ Stusser du på alskens bisarre saker? Send inn dine spørsmål til Abels Tårns 
       <guid>31a8b3d580ad2ab6d571cd88d5f7d338</guid>
       <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f9f65c4d-2915-49ea-b65c-4d2915b9ead7_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Se krystallklart i stupmørke</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_91a977486da6e127c4b980de901fdaaf</link>
-      <description>Forskere har utviklet nye superbriller. Dessuten, skadde hjerner kan reparere seg selv. Og gode opplevelser gir også bra søvn</description>
-      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
-      <guid>91a977486da6e127c4b980de901fdaaf</guid>
-      <pubDate>Mon, 21 Sep 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/da7de30b-a076-4b57-bde3-0ba076ab57c2_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
