@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Kjipt med jetlag?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_816ff6879034b1d1af9b7b64519751a8</link>
+      <description>Da vet du hvordan trekkfuglene har det. Dessuten, Edderkopper har rem-søvn, og noe rart skjer med transplanterte eggstokker
+</description>
+      <image>https://gfx.nrk.no/zYlQXPAtADQAoLIqmpadAgsP2ybP_MH45mxLSXqYQ-tw.jpg</image>
+      <guid>816ff6879034b1d1af9b7b64519751a8</guid>
+      <pubDate>Wed, 11 Nov 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fd39fb7f-aa41-47d8-9df6-22f178e840ad_dc80720b-d874-4f52-8892-bb029d505152_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Demokrati er en umulighet</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_e4215245cb1a31af145f9125dc97ce2a</link>
       <description>Formelen går ikke opp. Dessuten, Hitlers DNA er analysert, og Van Goghs "Stjernenatt"
@@ -185,15 +195,6 @@ Stusser du på alskens bisarre saker? Send inn dine spørsmål til Abels Tårns 
       <guid>19e3b09e473fe31e1999b41d3db29898</guid>
       <pubDate>Fri, 25 Sep 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2a1c21f0-8d3f-4806-9c21-f08d3ff80633_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Et gjennombrudd i kreftforskning</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_31a8b3d580ad2ab6d571cd88d5f7d338</link>
-      <description>Ny lovende kreftvaksine på veg. Dessuten, slankemedisiner overrasker forskerne. Og Antarktis har til tross for klimakrisa, fått mer is!</description>
-      <image>https://gfx.nrk.no/zYlQXPAtADQAoLIqmpadAgsP2ybP_MH45mxLSXqYQ-tw.jpg</image>
-      <guid>31a8b3d580ad2ab6d571cd88d5f7d338</guid>
-      <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f9f65c4d-2915-49ea-b65c-4d2915b9ead7_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
