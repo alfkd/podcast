@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>KI-spørretime 2:2 - Dommedag</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_1bfaa373bf5ca7dfb8097d93f0929106</link>
+      <description>Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.</description>
+      <image>https://gfx.nrk.no/tHDgAiSxoqR0lFpZ5nVTkw22yVYLFxf9WE43Ds-Frywg.jpg</image>
+      <guid>1bfaa373bf5ca7dfb8097d93f0929106</guid>
+      <pubDate>Fri, 13 Nov 2026 05:01:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f151d565-52d0-4eb5-8054-e98bf0ba8b3e_e98c94fc-2bef-44a8-bec1-0936906df422_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>KI-spørretime 1:2 - Skapelsen</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_9816dd9ec34a755940abd331a2f63ace</link>
       <description>Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.</description>
@@ -184,16 +193,6 @@ Lurer du på de merkeligste saker og ting? Få svar fra Abels Tårns allvitende 
       <guid>7c42d4c6833c46905f45c5a73d7a4c24</guid>
       <pubDate>Fri, 02 Oct 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a8269b66-0e44-490d-a69b-660e44390d40_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Da OpenAI kuppa matematikken</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_0a4aa950559100dac0a17811727a40fe</link>
-      <description>Hva nå, matematiker? Er det bruk for deg lenger? Dette er historien om da OpenAi løste Navier Stokes, et av de sju milleniumsproblemene i matematikk. En hendelse som sendte sjokkbølger gjennom hele feltet, og trolig blir stående igjen som et vannskille i historien. 
-Dette er også historien om en eksistensiell trussel, og om en politisk vekkelse som hjemsøker matematikkens verden.</description>
-      <image>https://gfx.nrk.no/N2Ve2x8ECX2LWVUGtkgLbgCNQ1JM9W6B8TXPqlcES9Pg.jpg</image>
-      <guid>0a4aa950559100dac0a17811727a40fe</guid>
-      <pubDate>Mon, 28 Sep 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9ca5b009-5b28-4047-a5b0-095b28e04755_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
