@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Vil du til månen?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_0800ba935c5c12b02f2f838630406ec2</link>
+      <description>Nasa trenger flere astronauter. Dessuten, endelig er dinosaurblod funnet. Og urskogen er ikke sånn vi trodde
+</description>
+      <image>https://gfx.nrk.no/0HEss_k1x_c4tFIGplhdQA-qRmj9Bqa9tkaQyxEg0Rpg.jpg</image>
+      <guid>0800ba935c5c12b02f2f838630406ec2</guid>
+      <pubDate>Wed, 18 Nov 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1d0a3d6a-52ac-4d08-a03c-be0af08ce3f6_07d66d80-d870-4700-9c03-61df1fe52ed2_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Slik nailer du smalltalk</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_3e66456bd0760b9fdac1ec170d202754</link>
       <description>Forskere fant trikset. Dessuten, flaks løste kjemigåte. Og periodisk faste hjelper Huntington-pasienter</description>
@@ -183,15 +193,6 @@ Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns al
       <guid>c18aca544dac46f48c1c5250db7f6110</guid>
       <pubDate>Wed, 07 Oct 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d99301c3-6259-4d04-9301-c36259fd0463_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Smarttelefon fører til færre fødsler</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_13fb0eae7963dcb26107db29c0f809a3</link>
-      <description>Forskere ser en sammenheng. Dessuten, KI må hallusinere mye mer, og en ny katteart er oppdaget</description>
-      <image>https://gfx.nrk.no/0HEss_k1x_c4tFIGplhdQA-qRmj9Bqa9tkaQyxEg0Rpg.jpg</image>
-      <guid>13fb0eae7963dcb26107db29c0f809a3</guid>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
