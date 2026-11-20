@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Hvilket dyr fløy først?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_a13cf937d2ccaaf59b48f05e58b3372f</link>
+      <description>Bør få tittelen Tidenes Tøffeste!
+Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertise!</description>
+      <image>https://gfx.nrk.no/-4L-azerDKcWOmP5eaYWuwFSN3dQjqfseYKcNTQdUnJg.jpg</image>
+      <guid>a13cf937d2ccaaf59b48f05e58b3372f</guid>
+      <pubDate>Fri, 20 Nov 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/275b7e90-51fb-4c04-afdc-264cb956f986_35ce5fb9-8dbd-497e-b96b-f50e85043785_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Vil du til månen?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_0800ba935c5c12b02f2f838630406ec2</link>
       <description>Nasa trenger flere astronauter. Dessuten, endelig er dinosaurblod funnet. Og urskogen er ikke sånn vi trodde
@@ -184,15 +194,6 @@ Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns al
       <guid>45427d183ad66d7cad47bc9143336fc5</guid>
       <pubDate>Wed, 07 Oct 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/641212df-eff4-463f-9212-dfeff4d63f47_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Hjernens hemmelige av/på-knapp</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_c18aca544dac46f48c1c5250db7f6110</link>
-      <description>Årets nobelpriser i realfag går til hjerneforskning, spøkelsespartikler og speilvendte molekyler</description>
-      <image>https://gfx.nrk.no/zYlQXPAtADQAoLIqmpadAgsP2ybP_MH45mxLSXqYQ-tw.jpg</image>
-      <guid>c18aca544dac46f48c1c5250db7f6110</guid>
-      <pubDate>Wed, 07 Oct 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d99301c3-6259-4d04-9301-c36259fd0463_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
