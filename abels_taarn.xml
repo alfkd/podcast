@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Sliten av å bruke KI?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_6a140e411a2bf3c9f531f3edae7cd5ca</link>
+      <description>Du er ikke alene. Dessuten, mystisk mattebok er dekodet. Og elefanter lærer oss noe nytt</description>
+      <image>https://gfx.nrk.no/zYlQXPAtADQAoLIqmpadAgsP2ybP_MH45mxLSXqYQ-tw.jpg</image>
+      <guid>6a140e411a2bf3c9f531f3edae7cd5ca</guid>
+      <pubDate>Mon, 23 Nov 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/dd14940d-0f1d-4ec7-8d58-b4023ec10fd5_2ce40289-f8f2-4e89-b055-4f5fc4fa1a67_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Hvilket dyr fløy først?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_a13cf937d2ccaaf59b48f05e58b3372f</link>
       <description>Bør få tittelen Tidenes Tøffeste!
@@ -185,15 +194,6 @@ Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns al
       <guid>350c712ef5e518a80f4fde0700d71038</guid>
       <pubDate>Fri, 09 Oct 2026 09:30:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/59575a02-8559-4b80-975a-0285598b8073_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Er gen Z dummere enn sine foreldre?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_45427d183ad66d7cad47bc9143336fc5</link>
-      <description>Eller er testene feil? Dessuten, genetiske bomber er rundt deg. Og nytt romteleskop brukes av alle</description>
-      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
-      <guid>45427d183ad66d7cad47bc9143336fc5</guid>
-      <pubDate>Wed, 07 Oct 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/641212df-eff4-463f-9212-dfeff4d63f47_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
