@@ -7,6 +7,15 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Det største i matematikkhistorien</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_b0c92efa1f5f26ac6f17422033102698</link>
+      <description>BONUS: Riemannhypotesen har falt! Matematikkens hellige gral. Kanskje det viktigste øyeblikket i mattehistorien.</description>
+      <image>https://gfx.nrk.no/iUktyN541ngfvVSWhM5uQACxsa7UsIeWv95aJowPpy9g.jpg</image>
+      <guid>b0c92efa1f5f26ac6f17422033102698</guid>
+      <pubDate>Mon, 23 Nov 2026 19:48:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/bbfc50c3-86bf-486a-8168-2e7c6b7bc53c_ce86a246-cd55-449c-9a86-b7d914e607c9_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Sliten av å bruke KI?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_6a140e411a2bf3c9f531f3edae7cd5ca</link>
       <description>Du er ikke alene. Dessuten, mystisk mattebok er dekodet. Og elefanter lærer oss noe nytt</description>
@@ -185,15 +194,6 @@ Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns al
       <guid>00fcc056be7aa0defcca2854f291c27f</guid>
       <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b5474e37-ce04-4e64-874e-37ce041e643c_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Hvordan lader du mobilen perfekt?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_350c712ef5e518a80f4fde0700d71038</link>
-      <description>Er du lydig og stopper på 80%, eller er du en rebell som lader til 100%? Det kommer kanskje an på om du FØLER deg stor eller liten? Men hva ER du?</description>
-      <image>https://gfx.nrk.no/y0KUgf83pF6mw3fDd2ObrQUf4HiJJlwp5pLhAW9hoDdA.jpg</image>
-      <guid>350c712ef5e518a80f4fde0700d71038</guid>
-      <pubDate>Fri, 09 Oct 2026 09:30:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/59575a02-8559-4b80-975a-0285598b8073_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
