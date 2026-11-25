@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Billig strøm til deg</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_e2353b154f644ba5326c60a0760b4f9e</link>
+      <description>Tidevann er energikilden. Dessuten, Alzheimer delvis kurert hos mus. Og derfor fenger GTA-vold 
+</description>
+      <image>https://gfx.nrk.no/RJ_eQo1kx7O0tACCna9q_gydT516h8AVFuLDciYbnL-w.jpg</image>
+      <guid>e2353b154f644ba5326c60a0760b4f9e</guid>
+      <pubDate>Wed, 25 Nov 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c6bce591-ab54-4f19-b720-eb544a281b7f_57010c1c-17a7-4453-a7a7-ea125927f8e8_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Det største i matematikkhistorien</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_b0c92efa1f5f26ac6f17422033102698</link>
       <description>BONUS: Riemannhypotesen har falt! Matematikkens hellige gral. Kanskje det viktigste øyeblikket i mattehistorien.</description>
@@ -185,15 +195,6 @@ Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns al
       <guid>59357ce508d84a73d497fad2dafb6e75</guid>
       <pubDate>Fri, 16 Oct 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4115f770-e95c-45d4-95f7-70e95c55d42b_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Du får bedre helse av å lese</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_00fcc056be7aa0defcca2854f291c27f</link>
-      <description>Forskere ser at hjernen fysisk styrkes. Dessuten, menneskeceller opereres inn i mus. Og KI har tråkket over en grense</description>
-      <image>https://gfx.nrk.no/0HEss_k1x_c4tFIGplhdQA-qRmj9Bqa9tkaQyxEg0Rpg.jpg</image>
-      <guid>00fcc056be7aa0defcca2854f291c27f</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b5474e37-ce04-4e64-874e-37ce041e643c_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
