@@ -7,6 +7,16 @@
     <image>https://gfx.nrk.no/GD0qzpMihVfGmfyv0CH8qA1sReZH8UJSHeRmsYNQodAQ.jpg</image>
     <language>no</language>
     <item>
+      <title>Kan vin lukte kun drue?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_fd2cb580b986e1eca6d9f3a03081ab91</link>
+      <description>Artig at drue er et anagram for edru, da...
+Lurer du på de merkeligste ting og tang? Få svar fra Abels Tårns allvitende eksperter!</description>
+      <image>https://gfx.nrk.no/uneHqksQfTHctdIOj-JkbQykYaQIVjCWRvm5aN6Cgd9A.jpg</image>
+      <guid>fd2cb580b986e1eca6d9f3a03081ab91</guid>
+      <pubDate>Fri, 27 Nov 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1e29cc05-9628-4d75-9fbd-1726fd455975_54c8ea58-c43c-496c-b70a-8045165490a4_ID192MP3.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Billig strøm til deg</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_e2353b154f644ba5326c60a0760b4f9e</link>
       <description>Tidevann er energikilden. Dessuten, Alzheimer delvis kurert hos mus. Og derfor fenger GTA-vold 
@@ -185,16 +195,6 @@ Går du rundt og lurer på merkelige saker? Få svar fra Abels Tårns eksperter!
       <guid>990989d79f5a142fc6a72b882b965ac9</guid>
       <pubDate>Mon, 19 Oct 2026 04:00:00 GMT</pubDate>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e5eaa410-cb54-4c8c-aaa4-10cb543c8c99_1_ID192MP3.mp3" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Har maneter det gøy?</title>
-      <link>https://radio.nrk.no/podkast/abels_taarn/l_59357ce508d84a73d497fad2dafb6e75</link>
-      <description>Mange mener humor krever ryggrad.
-Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertise!</description>
-      <image>https://gfx.nrk.no/FxEc5szlNEt4vitdYIhsRQHQNkAFbeQjlIHiBiiidBAA.jpg</image>
-      <guid>59357ce508d84a73d497fad2dafb6e75</guid>
-      <pubDate>Fri, 16 Oct 2026 04:00:00 GMT</pubDate>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4115f770-e95c-45d4-95f7-70e95c55d42b_1_ID192MP3.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
